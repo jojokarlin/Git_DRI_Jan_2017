@@ -33,7 +33,7 @@ In command line:
 
 You **fork** a user's repository on **Github** in order to create a copy. Forking gives you the freedom to experiment without worry of compromising the source document.
 
-![image of fork icon] (mckinniburgh/Desktop/fork.png)
+[image of forking] (https://github.com/mckinniburgh/githubTutorial/blob/master/images/fork.png)
 
 A **clone** is a local copy of a repository. We might think of **forking** as a way of cloning on Github, and **cloning** as a way of copying in git. Some users like to clone their repo after they've forked it; this means they can edit their local copy without having to be online, and then push changes once they're online again.
 
