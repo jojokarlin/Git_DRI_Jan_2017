@@ -2,7 +2,7 @@ A Digital Surrealist Game: [The Exquisite Corpse] (https://www.moma.org/learn/mo
 
 Add a sentence of your choosing in the line number that's been assigned to you. 
 
-1.
+1. The rose is concrete, H.D. roolz
 
 2.
 
