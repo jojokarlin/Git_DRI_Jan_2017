@@ -1,6 +1,4 @@
-# gitWorkshop
-
-Collaboration and Writing Workflows with Git and GitHub
+# Collaboration and Writing Workflows with Git and GitHub
 
 This repository is a space to think through the process of learning git and Github workflows, as well as store materials related to the GC Digital Fellows workshop in Spring 2016 taught by Mary Catherine Kinniburgh and Patrick Smyth.
 
