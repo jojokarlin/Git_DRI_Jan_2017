@@ -71,7 +71,7 @@ A text editor will then open up and prompt you to enter a description of changes
 
 ### Want to push to GitHub?
 
-First, make sure that you've set up a remote repo in GitHub. 
+First, make sure that you've set up a [remote repo in GitHub.](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/) 
 
 `git push -u origin master` (this pushes to the master branch)
 
