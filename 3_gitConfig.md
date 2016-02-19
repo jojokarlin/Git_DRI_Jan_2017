@@ -29,8 +29,7 @@ To check your set-up, use:
 
 You'll get something that looks like this:
 
-```
-user.name=Superstar Git User
+```user.name=Superstar Git User
 user.email=gitsuperstar@gmail.com.
 color.ui=auto
 core.editor=nano -w
