@@ -6,6 +6,16 @@ You **fork** a user's repository on **Github** in order to create a copy. Forkin
 
 A **clone** is a local copy of a repository. We might think of **forking** as a way of cloning on Github, and **cloning** as a way of copying in git. Some users like to clone their repo after they've forked it; this means they can edit their local copy without having to be online, and then push changes once they're online again.
 
+## Forking Practice
+
+Partner up, and fork a file from your friend's repo on GitHub. Make a clone, and see if you can use the command line to open a file in the repo, make an edit, and send it back. 
+
+Also, see if you can use the GUI on GitHub (just the buttons on the web page) to do the same thing. There should be a little edit button near the top of each repo.
+
+Remember, what you don't know can be Googled or looked up on Stack Overflow!
+
+### Commands to help
+
 `git clone [URL of your GitHub repo]`
 
 This clones a remote repo to your local Git so you can begin to edit. Many folks do this after forking the repo in GitHub's GUI (graphical user interface).
