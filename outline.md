@@ -14,16 +14,19 @@ If we have time, we're going to do an "Exquisite Corpse" poetry game in teams th
 
 Let's get started! Here's our agenda:
 
-### Overviews
+### Brief Overview: Git, GitHub, Markdown, and Why
 
-#### Git
+### Git Config
+Set up your git and GitHub account.
 
-#### GitHub
+### Command Line
+Create a Git repo with a file. 
 
-#### Markdown
+### Git Add, Git Commit, Git Push
+Make local changes, track them, and push them to a remote repo.
 
-#### Command Line Review
+### Forking and Pull Requests
 
-#### Create a repository
+#### [Workshop Evaluation] (https://docs.google.com/forms/d/1Q6dYD6emcNlOTA6oeJmVc3Z-qKvWGGhE_SjVnVRWHbI/viewform)
 
 
