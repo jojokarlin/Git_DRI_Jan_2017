@@ -36,11 +36,11 @@ Congrats! You've committed your first changes to your Git repo.
 
 Now, let's add this directory to GitHub so we can share it with others and start collaborating.
 
-*Go to **GitHub in your browser**, and click the plus sign in the upper right hand corner to create a new remote repo. 
+- Go to **GitHub** in your browser and click the plus sign in the upper right hand corner to create a new remote repo. 
 
-*Give it the same name as your local repo. Skip the "add README.md" step, since you're importing an existing directory.
+- Give it the same name as your local repo. Skip the "add README.md" step, since you're importing an existing directory.
 
-*Navigate to your new remote repo in the browser, and copy its HTTPS: URL. 
+- Navigate to your new remote repo in the browser, and copy its HTTPS: URL. 
 
 In the **command line**, check your git status
 
