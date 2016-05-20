@@ -14,13 +14,15 @@ In your working directory in the command line, type:
 
 This stages the file to be tracked, and prepares it to be committed. 
 
+'git add --all' adds all files if you have many to be tracked.
+
 ## Git Commit
 
 Use the command:
 
 `git commit -a`
 
-`-a` commits all files that have been added. A text editor will then open up and prompt you to enter a description of changes. Be concise! For Nano, press `^O` to save, hit `enter`, and then `^x` to exit. 
+`-a` commits all files that have been added. ~~A text editor will then open up and prompt you to enter a description of changes.~~ Be concise!
 
 You can also type:
 
