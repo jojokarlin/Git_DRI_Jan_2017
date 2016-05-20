@@ -1,8 +1,8 @@
 ## Welcome to "Collaboration and Writing Workflows with Git and GitHub!"
 
-*if you've arrived early and haven't yet registered for a GitHub account, please do so now at [http://github.com/](http://github.com/).*
+*If you haven't yet registered for a GitHub account, please do so now at [http://github.com/](http://github.com/).*
 
-In your browser on your own computer, follow this workshop at [http://github.com/mckinniburgh/gitWorkshop](https://github.com/mckinniburgh/gitWorkshop)
+In your browser on your own computer, follow this workshop at [http://github.com/jentang/GitDRI](https://github.com/jentang/GitDRI)
 
 ~ ~ ~ ~ ~ ~
 
