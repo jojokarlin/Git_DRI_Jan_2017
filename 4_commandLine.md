@@ -53,4 +53,5 @@ Now, type `touch [name].md` The '.md' extension means "markdown." You can use `t
 
 `open [name].[extension]` will let you get started.
 
-Whatever text editor pops up should be the one that you set in your `git config`. To change this, edit the `.git/config`. I use [TextWrangler](http://www.barebones.com/products/textwrangler/). Write and save as usual. Remember how to open files (described right above!).
+Whatever text editor pops up should be the one that you set in your `git config`. We have configured it to use Sublime. To change your text editor, edit the `.git/config`. 
+After opening your file in your text editor, add or make whatever changes you would like. CTRL + S saves the file, SHIFT + CTRL + W closes the Subline file. Remember how to open files (described right above!).
