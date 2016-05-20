@@ -5,6 +5,9 @@ Keep your username and password handy.
 
 ## Make sure Git is installed on your computer.
 
+## Make sure Sublime Text 3 is installed on your computer. 
+If not, click the following link and install at [http://www.sublimetext.com/3](http://www.sublimetext.com/3/).
+
 Open your terminal/bash:
 
 Mac: press the space bar and the command key at the same time and type in "terminal."
@@ -22,9 +25,9 @@ Type the following into your command line, filling in the sections for your user
 
 `git config --global user.email johndoe@example.com`
 
-`git config --global core.editor nano`
+`git config --global core.editor "subl -n -w"`
 
-You don't have to use nano as your text editor; you can pick your editor of choice. 
+You don't have to use Sublime as your text editor, but for simplicity and consistency, we are asking everyone to use Sublime as your editor this week. 
 
 To check your set-up, use:
 
@@ -38,11 +41,11 @@ user.email=gitsuperstar@gmail.com.
 
 color.ui=auto
 
-core.editor=nano -w
+core.editor=subl -n -w
 ...```
 
 If something seems wrong with your configuration but you just can't figure it out, go to your configuration file for a closer look. This tip courtesy of [story645](https://github.com/story645).
 
-`nano .git/config`  
+`~~nano~~ .git/config`  
 
 For more reading on `git config`, check out this [Git-SCM](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) tutorial, which was helpful reference in the making of this resource. 
