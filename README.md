@@ -6,7 +6,7 @@ Workshop description:
 
 "Learn what makes Github such a powerful tool for both collaborative and individual projects in this introductory workshop. We will provide a conceptual overview of Git and Github, learn the basics of how to get started, and explore practical applications of Github for writing and computational workflows. This workshop will be applicable for a wide range of digital undertakings, from developing code, to working with datasets, to drafting public policy, and beyond."
 
-_MASSIVE_ Thanks to **Mary Catherine McKinniburgh**, on whose shoulders I am standing to learn and run this workshop. And Patrick Smyth and Hannah Aizenmann who have been solid sources of knowledge and support.
+_MASSIVE_ Thanks to **Mary Catherine McKinniburgh**, on whose shoulders I am standing to learn and run this workshop. And Patrick Smyth and Hannah Aizenman who have been solid sources of knowledge and support.
 
 
 [Introduction](1_outline.md)  
