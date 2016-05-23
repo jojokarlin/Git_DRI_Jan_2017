@@ -28,8 +28,6 @@ Make local changes, track them, and push them to a remote repo.
 #### [Git for Collaboration](6_forkPull.md)
 Forking and Pull Requests
 
+~ ~ ~ ~ ~ ~
+
 _I have linked the [glossary](glossary.md) and [helpful commands](helpfulcommands.md) at the bottom of each page._
-
-
-
-
