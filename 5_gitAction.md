@@ -20,9 +20,9 @@ This stages the file to be tracked, and prepares it to be committed.
 
 Use the command:
 
-`git commit -a`
+`git commit -a *`
 
-`-a` commits all files that have been added. ~~A text editor will then open up and prompt you to enter a description of changes.~~ Be concise!
+`-a *` commits all files that have been added. `-a file` commits the file listed after `-a`. ~~A text editor will then open up and prompt you to enter a description of changes.~~ Be concise!
 
 You can also type:
 
