@@ -15,3 +15,5 @@ MASSIVE Thanks to Mary Catherine McKinniburgh, whose shoulders I am standing on 
 [Using Command Line to Set the Stage: make a directory and initialize](4_commandLine.md)  
 [Git Basics: add, commit and push](5_gitAction.md)  
 [Git for Collaboration: forking and pulling](6_forkPull.md)  
+
+##### [Workshop Evaluation] (https://docs.google.com/forms/d/1Q6dYD6emcNlOTA6oeJmVc3Z-qKvWGGhE_SjVnVRWHbI/viewform)

@@ -14,12 +14,12 @@ If we have time, we're going to do a challenge that practices forking and pull r
 
 Let's get started! Here's our agenda:
 
-### Brief Overview: Git, GitHub, Markdown, and Why
+### [What is Git, GitHub and Markdown?](2_conceptOverview.md)
 
-### Git Config
+### [Configuring Git and GitHub](3_gitConfig.md)
 Set up your git and GitHub account.
 
-### Command Line
+### [Using Command Line to Set the Stage](4_commandLine.md)
 Create a Git repo with a file. 
 
 ### Git Add, Git Commit, Git Push
@@ -27,6 +27,6 @@ Make local changes, track them, and push them to a remote repo.
 
 ### Forking and Pull Requests
 
-#### [Workshop Evaluation] (https://docs.google.com/forms/d/1Q6dYD6emcNlOTA6oeJmVc3Z-qKvWGGhE_SjVnVRWHbI/viewform)
+
 
 
