@@ -24,5 +24,8 @@ Markdown is also thought to be more sustainable over time, since it is a plain t
 
 For a cheat-sheet to get you started, read here: [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). I used this cheatsheet for reference in creating this repo. 
 
+~ ~ ~ ~ ~ ~
+
 For more: [Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text Using Pandoc and Markdown."](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
+[glossary](glossary.md) [helpful commands](helpfulcommands.md) 
