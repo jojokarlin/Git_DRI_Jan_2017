@@ -48,4 +48,8 @@ If something seems wrong with your configuration but you just can't figure it ou
 
 `~~nano~~ .git/config`  
 
-For more reading on `git config`, check out this [Git-SCM](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) tutorial, which was helpful reference in the making of this resource. 
+~ ~ ~ ~ ~ ~
+For more reading on `git config`, check out this [Git-SCM](https://git-scm.com/book/en/v2/
+Getting-Started-First-Time-Git-Setup) tutorial, which was helpful reference in the making of this resource. 
+
+[glossary](glossary.md) [helpful commands](helpfulcommands.md)
