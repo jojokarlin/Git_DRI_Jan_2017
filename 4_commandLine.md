@@ -7,6 +7,7 @@ The commmand line is one of the primary ways of using Git on your computer. We'r
 ### Open your Terminal. 
 
 Mac: press the space bar and the command key at the same time and type in "terminal."
+
 Windows: launch the command prompt from the run window. 
 
 ### Go to your Desktop.
