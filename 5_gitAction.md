@@ -69,3 +69,6 @@ In the command line, type:
 You'll then be prompted to enter your GitHub username and password. Complete this step, then refresh GitHub in the browser to see your changes. 
 
 Cheer wildly!
+
+~ ~ ~ ~ ~ ~
+[glossary](glossary.md) [helpful commands](helpfulcommands.md)
