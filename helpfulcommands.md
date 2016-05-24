@@ -29,6 +29,3 @@ Here is a list of commands that will help you navigate Git and GitHub in your co
 `git pull [URL of remote repo]` updates your local repo with remote changes. 
 
 `git clone [URL of remote repo]` makes a local copy of a repo for you to edit.
-
-
-

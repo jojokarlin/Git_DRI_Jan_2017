@@ -70,5 +70,6 @@ You'll then be prompted to enter your GitHub username and password. Complete thi
 
 Cheer wildly!
 
-~ ~ ~ ~ ~ ~
+---
+
 [glossary](glossary.md) [helpful commands](helpfulcommands.md)
