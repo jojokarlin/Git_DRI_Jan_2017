@@ -46,7 +46,7 @@ core.editor=subl -n -w
 
 If something seems wrong with your configuration but you just can't figure it out, go to your configuration file for a closer look. This tip courtesy of [story645](https://github.com/story645).
 
-`~~nano~~ .git/config`  
+~~'nano .git/config`~~
 
 ---
 
