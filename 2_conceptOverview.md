@@ -26,4 +26,4 @@ To help you format your text (use markdown to translate plain to pizzaz), try th
 
 For more: [Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text Using Pandoc and Markdown."](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
-[glossary](glossary.md) [helpful commands](helpfulcommands.md) 
+[Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md) 
