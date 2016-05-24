@@ -2,6 +2,8 @@
 
 # Add, Commit, and Push
 
+Continuing the musical metaphor, _adding_ calls your file out of the dressing room.
+
 Always check the status (make sure you're in the working directory):
 
 `git status`
@@ -18,21 +20,21 @@ This stages the file to be tracked, and prepares it to be committed.
 
 ## Git Commit
 
+To _commit_ a file, you put your file in the wings, ready to step out onto the stage!
+
 Use the command:
 
 `git commit -a`
 
-`-a` commits all files that have been added. ~~A text editor will then open up and prompt you to enter a description of changes.~~ Be concise!
+`-a` commits all files that have been added. A text editor will then open up and prompt you to enter a description of changes. Be concise!
 
-You can also type:
+You can also type your message right into the command line:
 
 `git commit -m "(add a message here about the commits you're making)"`
 
-This will let you type your message right into the command line. 
-
 Remember, being brief but descriptive about changes will let both you and your collaborators know the differences between your versions. 
 
-Congrats! You've committed your first changes to your Git repo. 
+Congrats! You've committed your first changes to your local Git repo. Now, how do you get these changes onto a shared GitHub so that others can see your good work? How do you get your files to get on the stage to dazzle the audience?
 
 ## Setting up Your Remote Repo
 
@@ -68,7 +70,7 @@ In the command line, type:
 
 You'll then be prompted to enter your GitHub username and password. Complete this step, then refresh GitHub in the browser to see your changes. 
 
-Cheer wildly!
+Cheer wildly! (Cue applause)
 
 ---
 
