@@ -4,7 +4,7 @@
 
 In your browser on your own computer, follow this workshop at [http://github.com/jentang/GitDRI](https://github.com/jentang/GitDRI)
 
-~ ~ ~ ~ ~ ~
+---
 
 Today, we're going to learn how to use Git, GitHub and markdown in order to develop a workflow for collaborative, version-controlled projects in digital environments. 
 
@@ -28,6 +28,6 @@ Make local changes, track them, and push them to a remote repo.
 #### [Git for Collaboration](6_forkPull.md)
 Forking and Pull Requests
 
-~ ~ ~ ~ ~ ~
+---
 
 _I have linked the [glossary](glossary.md) and [helpful commands](helpfulcommands.md) at the bottom of each page._
