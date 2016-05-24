@@ -6,7 +6,7 @@ Here is a list of commands that will help you navigate Git and GitHub in your co
 
 `cd ..` will navigate you up a directory.
 
-'cd -' goes back to your last directory.
+`cd -` goes back to your last directory.
 
 `pwd` or "print working directory" will tell you where you are if you get a little lost.
 
