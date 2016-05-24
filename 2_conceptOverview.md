@@ -16,15 +16,13 @@ Github _connects_ Git repositories remotely and is the power behind *collaborati
 
 ## What is Markdown?
 
-Markdown is a markup (I know!) style that allows you to annotate text for formatting in a quick and lightweight manner. 
+Markdown is a way to _mark up_ text in a quick and lightweight manner to format the text, rendering more attractive files. 
 
-GitHub supports markdown, which renders more attractive files.
+You can think of markdown as a language read by many platforms and sites, including GitHub, to stylize text. Markdown is also thought to be more sustainable over time, since it is a plain text file. You'll notice this file is in markdown--check out its extension!
 
-Markdown is also thought to be more sustainable over time, since it is a plain text file. You'll notice this file is in markdown--check out its extension!
+To help you format your text (use markdown to translate plain to pizzaz), try this cheat-sheet: [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). I used it as a reference to create this repo. 
 
-For a cheat-sheet to get you started, read here: [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). I used this cheatsheet for reference in creating this repo. 
-
-~ ~ ~ ~ ~ ~
+---
 
 For more: [Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text Using Pandoc and Markdown."](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
