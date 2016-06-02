@@ -13,5 +13,7 @@ _MASSIVE_ Thanks to **[Mary Catherine McKinniburgh](https://github.com/mckinnibu
 [What is Git, GitHub and Markdown?](2_conceptOverview.md)  
 [Configuring Git and GitHub](3_gitConfig.md)  
 [Using Command Line to Set the Stage: make a directory and initialize](4_commandLine.md)  
-[Git Basics: add, commit and push](5_gitAction.md)  
+[Git Basics 1: add, commit](5_gitAction.md)
+[Git with friends: GitHub setup](6_githubSetup.md)
+[Git Basics 2: push](7_gitPush.md)
 [Git for Collaboration: forking and pulling](6_forkPull.md)  
