@@ -20,19 +20,7 @@ This stages the file to be tracked, and prepares it to be committed.
 
 ## Git Commit
 
-<<<<<<< HEAD
-To _commit_ a file, you put your file in the wings, ready to step out onto the stage!
-
-Use the command:
-
-`git commit -a`
-
-`-a` commits all files that have been added. A text editor will then open up and prompt you to enter a description of changes. Be concise!
-
-You can also type your message right into the command line:
-=======
 To commit a file, type:
->>>>>>> 429a59179ccb32eb026d935a9fe7b2b38c5d433b
 
 `git commit -m "(add a message here about the commits you're making)"`
 
@@ -84,10 +72,4 @@ Cheer wildly! (Cue applause)
 
 ---
 
-<<<<<<< HEAD
 [glossary](glossary.md) [helpful commands](helpfulcommands.md)
-=======
-~ ~ ~ ~ ~ ~
-
-[glossary](glossary.md) [helpful commands](helpfulcommands.md)
->>>>>>> 429a59179ccb32eb026d935a9fe7b2b38c5d433b
