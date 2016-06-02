@@ -7,9 +7,13 @@ Workshop description:
 "Learn what makes Github such a powerful tool for both collaborative and individual projects in this introductory workshop. We will provide a conceptual overview of Git and Github, learn the basics of how to get started, and explore practical applications of Github for writing and computational workflows. This workshop will be applicable for a wide range of digital undertakings, from developing code, to working with datasets, to drafting public policy, and beyond."
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 _MASSIVE_ Thanks to **Mary Catherine McKinniburgh**, on whose shoulders I am standing to learn and run this workshop. And Patrick Smyth and Hannah Aizenmann who have been indespensible sources of knowledge and support.
 =======
 _MASSIVE_ Thanks to **Mary Catherine McKinniburgh**, on whose shoulders I am standing to learn and run this workshop. And Patrick Smyth and Hannah Aizenman who have been solid sources of knowledge and support.
+=======
+_MASSIVE_ Thanks to **[Mary Catherine Kinniburgh](https://github.com/mckinniburgh/gitWorkshop)**, on whose shoulders I am standing to learn and run this workshop. And Patrick Smyth and Hannah Aizenmann who have been solid sources of knowledge and support.
+>>>>>>> 13310f995a00efdf06b3a2900d8887b431ae2467
 
 >>>>>>> 429a59179ccb32eb026d935a9fe7b2b38c5d433b
 
@@ -24,4 +28,7 @@ _MASSIVE_ Thanks to **Mary Catherine McKinniburgh**, on whose shoulders I am sta
 [Git for Collaboration: forking and pulling](6_forkPull.md)  
 
 ##### [Workshop Evaluation](https://docs.google.com/forms/d/1Q6dYD6emcNlOTA6oeJmVc3Z-qKvWGGhE_SjVnVRWHbI/viewform)
+<<<<<<< HEAD
 >>>>>>> 429a59179ccb32eb026d935a9fe7b2b38c5d433b
+=======
+>>>>>>> 13310f995a00efdf06b3a2900d8887b431ae2467
