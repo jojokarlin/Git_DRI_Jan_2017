@@ -32,7 +32,7 @@ To combine the commit and add stage, use the command:
 
 `git commit -a *`
 
-`-a *` commits all files in the repo. `-a file` commits the file listed after `-a`. ~~A text editor will then open up and prompt you to enter a description of changes.~~ Be concise!
+`-a *` commits all files in the repo. `-a file` commits the file listed after `-a`.
 
 ## Setting up Your Remote Repo
 
