@@ -20,6 +20,7 @@ This stages the file to be tracked, and prepares it to be committed.
 
 ## Git Commit
 
+<<<<<<< HEAD
 To _commit_ a file, you put your file in the wings, ready to step out onto the stage!
 
 Use the command:
@@ -29,12 +30,21 @@ Use the command:
 `-a` commits all files that have been added. A text editor will then open up and prompt you to enter a description of changes. Be concise!
 
 You can also type your message right into the command line:
+=======
+To commit a file, type:
+>>>>>>> 429a59179ccb32eb026d935a9fe7b2b38c5d433b
 
 `git commit -m "(add a message here about the commits you're making)"`
 
 Remember, being brief but descriptive about changes will let both you and your collaborators know the differences between your versions. 
 
 Congrats! You've committed your first changes to your local Git repo. Now, how do you get these changes onto a shared GitHub so that others can see your good work? How do you get your files to get on the stage to dazzle the audience?
+
+To combine the commit and add stage, use the command:
+
+`git commit -a *`
+
+`-a *` commits all files in the repo. `-a file` commits the file listed after `-a`. ~~A text editor will then open up and prompt you to enter a description of changes.~~ Be concise!
 
 ## Setting up Your Remote Repo
 
@@ -74,4 +84,10 @@ Cheer wildly! (Cue applause)
 
 ---
 
+<<<<<<< HEAD
 [glossary](glossary.md) [helpful commands](helpfulcommands.md)
+=======
+~ ~ ~ ~ ~ ~
+
+[glossary](glossary.md) [helpful commands](helpfulcommands.md)
+>>>>>>> 429a59179ccb32eb026d935a9fe7b2b38c5d433b

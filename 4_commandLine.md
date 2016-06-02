@@ -7,6 +7,7 @@ The commmand line is one of the primary ways of using Git on your computer. We'r
 ### Open your Terminal. 
 
 Mac: press the space bar and the command key at the same time and type in "terminal."
+
 Windows: launch the command prompt from the run window. 
 
 ### Go to your Desktop.
@@ -56,6 +57,12 @@ Now, type `touch [name].md` The '.md' extension means "markdown." You can use `t
 Whatever text editor pops up should be the one that you set in your `git config`. We have configured it to use Sublime. To change your text editor, edit the `.git/config`. 
 After opening your file in your text editor, add or make whatever changes you would like. CTRL + S saves the file, SHIFT + CTRL + W closes the Sublime file. Remember how to open files (described right above!).
 
+<<<<<<< HEAD
 ---
 
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
+=======
+~ ~ ~ ~ ~ ~
+
+[glossary](glossary.md) [helpful commands](helpfulcommands.md)
+>>>>>>> 429a59179ccb32eb026d935a9fe7b2b38c5d433b

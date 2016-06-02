@@ -46,6 +46,7 @@ core.editor=subl -n -w
 
 If something seems wrong with your configuration but you just can't figure it out, go to your configuration file for a closer look. This tip courtesy of [story645](https://github.com/story645).
 
+<<<<<<< HEAD
 ~~'nano .git/config`~~
 
 ---
@@ -54,3 +55,13 @@ For more reading on `git config`, check out this [Git-SCM](https://git-scm.com/b
 Getting-Started-First-Time-Git-Setup) tutorial, which was helpful reference in the making of this resource. 
 
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
+=======
+`subl .git/config`  
+
+~ ~ ~ ~ ~ ~
+
+For more reading on `git config`, check out this [Git-SCM](https://git-scm.com/book/en/v2/
+Getting-Started-First-Time-Git-Setup) tutorial, which was helpful reference in the making of this resource. 
+
+[glossary](glossary.md) [helpful commands](helpfulcommands.md)
+>>>>>>> 429a59179ccb32eb026d935a9fe7b2b38c5d433b
