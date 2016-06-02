@@ -8,7 +8,6 @@ Workshop description:
 
 _MASSIVE_ Thanks to **Mary Catherine McKinniburgh**, on whose shoulders I am standing to learn and run this workshop. And Patrick Smyth and Hannah Aizenmann who have been indespensible sources of knowledge and support.
 
-
 [Introduction](1_outline.md)  
 [What is Git, GitHub and Markdown?](2_conceptOverview.md)  
 [Configuring Git and GitHub](3_gitConfig.md)  
