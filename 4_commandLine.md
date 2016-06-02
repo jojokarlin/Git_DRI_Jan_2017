@@ -12,19 +12,12 @@ Windows: launch the command prompt from the run window.
 
 ### Go to your Desktop.
 
+Do you remember this from yesterday?
+
 `cd [name of directory or folder]` will let you navigate inside a directory of your choosing.
 
 Type `cd Desktop` and hit enter.
 
-Now, `cd ..` lets you go up one directory. 'cd ~' will get you home.
-
-Practice going back and forth between your Desktop and your home directory. Experiment! The more you type, the more natural the command line will feel. 
-
-Got lost?
-
-`pwd` or "print working directory" will tell you where you are if you get a little lost.
-
-End on your Desktop. 
 
 ### Make a new folder on your Desktop.
 
@@ -47,8 +40,10 @@ This initializes the Git repository. It _sets the stage_ for the magic you want 
 Back in the command line, we're going to make a plain text markdown file.
 
 Make sure you're navigated inside your GitPractice folder. Use `cd` or `cd ..` as needed.
+
+Do you remember how to create a file?
  
-Now, type `touch [name].md` The '.md' extension means "markdown." You can use `touch` to create other types of files, too.
+Hint: type `touch [name].md` The '.md' extension means "markdown." You can use `touch` to create other types of files, too.
 
 ### Edit your file.
 
