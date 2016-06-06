@@ -2,7 +2,7 @@
 
 First, we're going to configure Git using the command line.  
 - _Make sure *Git* is installed on your computer._
-- _Make sure *Sublime Text 3* is installed on your computer._ If not, click the following link and install at [http://www.sublimetext.com/3](http://www.sublimetext.com/3/).
+- _Make sure *Sublime Text 3* is installed on your computer. If not, click the following link and install at [http://www.sublimetext.com/3]_(http://www.sublimetext.com/3).
 
 Open your terminal/bash:
 
