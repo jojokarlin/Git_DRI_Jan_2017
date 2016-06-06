@@ -11,9 +11,7 @@ This repository houses materials related to the Git Workshop offered at the GC D
 [Configuring Git](gitconfig.md)  
 [Using Command Line to Set the Stage: make a directory and initialize](commandline.md)  
 [Git with friends: sign up for GitHub](github.md)
-
 [Git Basics 1: add, commit](gitaction.md)
-
 [Git Basics 2: push](gitpush.md)
 [Git for Collaboration: cloning and pulling](gitpull.md)  
 
