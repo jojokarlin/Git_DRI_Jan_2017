@@ -48,7 +48,15 @@ To combine the commit and add stage, use the command:
 
 `-a *` commits all files in the repo. `-a file` commits the file listed after `-a`.
 
- Now, how do you get these changes onto a shared GitHub so that others can see your good work?
+####You can also add:
+ - git status
+ - git add
+ - git commit -m "(message)"
+
+and even this command we will be explaining below  
+ - git push -u origin master
+ 
+Now, how do you get these changes onto a shared GitHub so that others can see your good work?
 
 ## Git Push
 
@@ -61,7 +69,7 @@ In the command line, type:
 You'll then be prompted to enter your GitHub username and password.  
 Refresh GitHub in the browser to see your changes. 
 
-Cheer wildly!
+####Cheer wildly!
 ___
 [<<< Connect GitHub](github.md) - [Making a copy from GitHub >>>](gitpull.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
