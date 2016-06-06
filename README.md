@@ -11,7 +11,7 @@ This repository houses materials related to the Git Workshop offered at the GC D
 [What is Git, GitHub and Markdown?](concept.md)  
 [Configure Git](gitconfig.md)  
 [Initialize Git](gitinit.md)  
-[Git with friends: sign up for GitHub](github.md)  
+[Connecting to GitHub](github.md)  
 [Git add, commit, and push](gitaction.md)  
 [Git for collaboration: cloning and pulling](gitpull.md)  
 
