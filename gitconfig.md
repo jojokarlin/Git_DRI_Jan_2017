@@ -21,7 +21,7 @@ Type the following into your command line, filling in the sections for your user
 
 `git config --global core.editor "subl -n -w"`
 
-The '-n' prompts Sublime to open in a new window, and the '-w' prompts it to wait for the application to close.
+The `-n` prompts Sublime to open in a new window, and the `-w` prompts it to wait for the application to close.
 
 You don't have to use Sublime as your text editor, but for simplicity and consistency, we are asking everyone to use Sublime as your editor this week. 
 
