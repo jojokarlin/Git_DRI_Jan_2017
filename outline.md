@@ -25,7 +25,7 @@ Set up Git on your computer.
 Create a new local repositoroy.
 
 #### [Connect to GitHub](github.md)
-Connect your remote GitHub to the local repo you just set up on your computer.
+Connect your remote GitHub to the local repo you just created on your computer.
 
 ####~ ~ ~ ~ ~ _Break_ ~ ~ ~ ~ ~
 
