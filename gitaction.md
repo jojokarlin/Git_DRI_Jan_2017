@@ -34,21 +34,19 @@ If you have been working on multiple files, `git add --all` adds all files if yo
 
 ## Git Commit
 
-To commit a file, type:
+To commit a file, type: `git commit` and your text editor should pop up for you to specify the kind of changes you are committing. Remember to save it!
 
-`git commit -m "(add a message here about the commits you're making)"`
+Or, you can type: `git commit -m "(add a message here about the commits you're making)"` to type the message directly in the command line without having to switch to your text editor.
 
 Remember, being brief but descriptive about changes will let both you and your collaborators know the differences between your versions. 
 
 Congrats! You've committed your first changes to your _local_ Git repo.
 
-To combine the commit and add stage, use the command:
+To commit a bunch of files at a time, use the command:  
+`git commit -a`  
+`-a file` commits the file listed after `-a`.
 
-`git commit -a *`
-
-`-a *` commits all files in the repo. `-a file` commits the file listed after `-a`.
-
-####You can also add:
+####You can practice by inserting these to your gitcheat.md file:
  - git status
  - git add
  - git commit -m "(message)"
