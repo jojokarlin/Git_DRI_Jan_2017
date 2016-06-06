@@ -1,11 +1,10 @@
-First, we're going to configure Git and GitHub in our command line. Then, we'll learn a little more about how to use and think about the command line as we build our repo. 
+# Configure Git
 
-## Make sure you've signed up for GitHub at [http://github.com/](https://github.com/).
-Keep your username and password handy. 
+First, we're going to configure Git using the command line. 
 
-## Make sure Git is installed on your computer.
+_Make sure *Git* is installed on your computer._
 
-## Make sure Sublime Text 3 is installed on your computer. 
+_Make sure *Sublime Text 3* is installed on your computer._
 If not, click the following link and install at [http://www.sublimetext.com/3](http://www.sublimetext.com/3/).
 
 Open your terminal/bash:
@@ -13,11 +12,10 @@ Open your terminal/bash:
 Mac: press the space bar and the command key at the same time and type in "terminal."
 Windows: launch the command prompt from the run window. 
 
-Type `git`. If you get a nice list of things, you're good to go. If not, click on the following link and install as per the directions:
+Type `git`.  
+If you get a nice list of things, you're good to go. If not, click on the following link and install as per the directions: [http://git-scm.com/downloads](http://git-scm.com/downloads)
 
-[http://git-scm.com/downloads](http://git-scm.com/downloads)
-
-## Configure Git
+## Configuring Git on your computer
 
 Type the following into your command line, filling in the sections for your username and email. These must correspond to the name and email you used to sign up for GitHub.
 
@@ -26,6 +24,8 @@ Type the following into your command line, filling in the sections for your user
 `git config --global user.email johndoe@example.com`
 
 `git config --global core.editor "subl -n -w"`
+
+The '-n' prompts Sublime to open in a new window, and the '-w' prompts it to wait for the application to close.
 
 You don't have to use Sublime as your text editor, but for simplicity and consistency, we are asking everyone to use Sublime as your editor this week. 
 
@@ -48,9 +48,9 @@ If something seems wrong with your configuration but you just can't figure it ou
 
 `subl .git/config`  
 
-~~~
+__
 
 For more reading on `git config`, check out this [Git-SCM](https://git-scm.com/book/en/v2/
-Getting-Started-First-Time-Git-Setup) tutorial, which was helpful reference in the making of this resource. 
+Getting-Started-First-Time-Git-Setup) tutorial, which was a helpful reference in the making of this resource. 
 
 [glossary](glossary.md) ~ ~ ~ [helpful commands](helpfulcommands.md)
