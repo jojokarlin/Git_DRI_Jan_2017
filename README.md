@@ -6,14 +6,14 @@ Learn what makes Github such a powerful tool for both collaborative and individu
 
 This repository houses materials related to the Git Workshop offered at the GC Digital Research Institute in June 2016 taught by Jennifer Tang, and Stephen Zweibel.
 
-[Workshop outline](1_outline.md)  
-[What is Git, GitHub and Markdown?](2_conceptOverview.md)  
-[Configuring Git](3_gitConfig.md)  
+[Workshop outline](outline.md)  
+[What is Git, GitHub and Markdown?](concept.md)  
+[Configuring Git](gitconfig.md)  
 [Using Command Line to Set the Stage: make a directory and initialize](commandline.md)  
-[Git with friends: sign up for GitHub](6_githubSetup.md)
-[Git Basics 1: add, commit](5_gitAction.md)
-[Git Basics 2: push](7_gitPush.md)
-[Git for Collaboration: pulling](6_forkPull.md)  
+[Git with friends: sign up for GitHub](github.md)
+[Git Basics 1: add, commit](gitaction.md)
+[Git Basics 2: push](gitpush.md)
+[Git for Collaboration: cloning and pulling](gitpull.md)  
 
 
 
