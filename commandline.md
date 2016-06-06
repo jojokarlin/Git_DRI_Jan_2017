@@ -35,6 +35,5 @@ Type `mkdir GitPractice` and hit enter.
 Click around to go check out your desktop and see your new folder. 
 
 ___
-[<<< Outline](outline.md) - [Conceptual Overview >>>](concept.md)
-
+[<<< Outline](outline.md) - [Conceptual Overview >>>](concept.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
