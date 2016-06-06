@@ -1,8 +1,5 @@
 ##Glossary
-
-Here's a glossary for the basic Git and Github terms that you'll need for this workshop. 
-
-If there's anything missing, remember that you can fork this repo, add what you'd like to see, and send a pull request!
+Here's a glossary for the basic Git and Github terms that you'll need for this workshop:
 
 **Git**: the version-control tool that lives on your computer. 
 
@@ -32,6 +29,8 @@ If there's anything missing, remember that you can fork this repo, add what you'
 
 **branch**: Git allows you to create new branches, or versions, off the master branch. These are particularly useful for larger code projects and development, since they allow you to work on and keep track of multiple discrete sections that can be merged back into the master branch.
 
+_If there's anything missing, remember that you can fork this repo, add what you'd like to see, and send a pull request!_
+___
 Sources and further reading: [http://git-scm.com/book/en/v2/](http://git-scm.com/book/en/v2/)
 [http://help.github.com/articles/](http://help.github.com/articles/)
 [http://help.github.com/articles/github-glossary/](http://help.github.com/articles/github-glossary/)
