@@ -1,6 +1,15 @@
+#GitHub
+
+GitHub is a remote (not on your own computer) location where you can store your work. Because it does lives in a place separate from your computer, other people can also access, and modify it.  
+
+## Sign up for GitHub
+
+Registered for a GitHub account, by going to [http://github.com/](http://github.com/).  
+Remember the username, email, and password you used because you will have to enter it again later.
+
 ## Setting up Your Remote Repo
 
-Now, let's add this directory to GitHub so we can share it with others and start collaborating.
+Now, let's add the directory you made to GitHub so we can share it with others and start collaborating.
 
 - Go to **GitHub** in your browser and click the plus sign in the upper right hand corner to create a new remote repo. 
 
