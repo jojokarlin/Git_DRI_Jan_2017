@@ -14,7 +14,7 @@ Git is the **local** power behind *version control*.
 
 Github _connects_ Git repositories remotely and is the power behind *collaboration*.
 
-### Sign up for a GitHub account
+#### Sign up for a GitHub account
 
 Registered for a GitHub account by going to [http://github.com/](http://github.com/).  
 
