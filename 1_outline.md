@@ -1,4 +1,4 @@
-# Using Git and GitHub to Collaborate and Manage Workflow!
+# Using Git and GitHub to Manage Collaborative Workflow!
 
 *If you haven't yet registered for a GitHub account, please do so now at [http://github.com/](http://github.com/).*
 
