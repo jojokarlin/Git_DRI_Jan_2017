@@ -26,5 +26,5 @@ After opening your file in your text editor, add or make whatever changes you wo
 
 ___
 
-[<<< Configure Git](gitconfig.md) - [Git add and commit >>>](gitaction.md)  
+[<<< Configure Git](gitconfig.md) - [Git add, commit, and push >>>](gitaction.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
