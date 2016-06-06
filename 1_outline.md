@@ -14,14 +14,19 @@ If we have time, we're going to do a challenge that practices forking and pull r
 
 Let's get started! Here's our agenda:
 
+#### [Reviewing the Command Line](4_commandLine.md)
+Using the Command Line to create a Git repository (AKA repo) and a file. 
+
 #### [What is Git, GitHub and Markdown?](2_conceptOverview.md)
 A conceptual overview of what this is about.
 
-#### [Configuring Git and GitHub](3_gitConfig.md)
-Set up your Git and GitHub account.
+#### [Configuring Git](3_gitConfig.md)
+Set up Git on your computer.
 
-#### [Using Command Line to Set the Stage](4_commandLine.md)
-Create a Git repository (AKA repo) with a file. 
+#### [Sign up for GitHub]
+Sign up for a GitHub account, and connecting it to the Git you just set up on your computer.
+
+_Break_
 
 #### [Git Add, Git Commit, Git Push](5_gitAction.md)
 Make local changes, track them, and push them to a remote repo.
