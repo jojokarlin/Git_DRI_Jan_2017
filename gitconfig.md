@@ -1,11 +1,8 @@
 # Configure Git
 
-First, we're going to configure Git using the command line. 
-
-_Make sure *Git* is installed on your computer._
-
-_Make sure *Sublime Text 3* is installed on your computer._
-If not, click the following link and install at [http://www.sublimetext.com/3](http://www.sublimetext.com/3/).
+First, we're going to configure Git using the command line.  
+- _Make sure *Git* is installed on your computer._
+- _Make sure *Sublime Text 3* is installed on your computer._ If not, click the following link and install at [http://www.sublimetext.com/3](http://www.sublimetext.com/3/).
 
 Open your terminal/bash:
 
@@ -35,14 +32,10 @@ To check your set-up, use:
 
 You'll get something that looks like this:
 
-```user.name=Superstar Git User
-
-user.email=gitsuperstar@gmail.com.
-
-color.ui=auto
-
-core.editor=subl -n -w
-...```
+`user.name=Superstar Git User`  
+`user.email=gitsuperstar@gmail.com.`  
+`color.ui=auto`  
+`core.editor=subl -n -w`
 
 If something seems wrong with your configuration but you just can't figure it out, go to your configuration file for a closer look. This tip courtesy of [story645](https://github.com/story645).
 
