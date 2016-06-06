@@ -33,5 +33,6 @@ _If there's anything missing, remember that you can fork this repo, add what you
 ___
 Sources and further reading: 
 -[http://git-scm.com/book/en/v2/](http://git-scm.com/book/en/v2/)
+
 -[http://help.github.com/articles/](http://help.github.com/articles/)
 -[http://help.github.com/articles/github-glossary/](http://help.github.com/articles/github-glossary/)
