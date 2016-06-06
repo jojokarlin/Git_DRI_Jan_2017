@@ -10,14 +10,14 @@ Always check the status (make sure you're in the working directory):
 
 let's open up the cheatsheet we just made and add the things we have learened so far to it.
 
-`open cheatsheet.md`
+`open gitcheat.md`
 
 Let's start with these:
 
-- `git config -- global user.name "[name]`
-- `git config --global user.email "[email address]`
-- `git config --global core.editor "subl -n -w"`
-- `git config --list`
+- git config -- global user.name "[name]
+- git config --global user.email "[email address]
+- git config --global core.editor "subl -n -w"
+- git config --list
 
 Remember to save it!
 
@@ -25,12 +25,10 @@ Remember to save it!
 
 In your working directory in the command line, type:
 
-`git add [name].md`
+`git add gitcheat.md`
 
 This stages the file to be tracked, and prepares it to be committed.  
-So let's stage the cheatsheet we added text to to be tracked.
-
-`git add cheatsheet.md`
+So let's stage the file we added text to to be tracked.
 
 If you have been working on multiple files, `git add --all` adds all files if you have many to be tracked.
 
