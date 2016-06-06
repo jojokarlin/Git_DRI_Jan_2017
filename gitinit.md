@@ -12,11 +12,11 @@ We are going to make our own cheatsheet as a plain text markdown file.
 
 Make sure you're navigated inside your GitPractice folder. Use `cd` or `cd ..` as needed.
 
-Type `touch cheatsheet.md` The '.md' extension means "markdown." You can use `touch` to create other types of files too: `touch [name].[extension]`.
+Type `touch gitcheat.md` The '.md' extension means "markdown." You can use `touch` to create other types of files too: `touch [name].[extension]`.
 
 ### Start your file.
 
-`open cheatsheet.md` will let you get started.
+`open gitcheat.md` will let you get started.
 
 Whatever text editor pops up should be the one that you set in your `git config`. We have configured it to use Sublime. To change your text editor, edit the `.git/config`. 
 
