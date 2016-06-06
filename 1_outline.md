@@ -8,10 +8,6 @@ In your browser on your own computer, follow this workshop at [http://github.com
 
 Today, we're going to learn how to use Git, GitHub and markdown in order to develop a workflow for collaborative, version-controlled projects in digital environments. 
 
-**Workshop Goal**: Create a Git repository on your computer, add files, and push this repository to your GitHub.
-
-If we have time, we're going to do a challenge that practices forking and pull requests on GitHub using our sample data set! 
-
 Let's get started! Here's our agenda:
 
 #### [Reviewing the Command Line](4_commandLine.md)
