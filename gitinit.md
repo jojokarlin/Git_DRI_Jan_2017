@@ -25,5 +25,5 @@ Using markdown style, give your document a title, insert your name and today's d
 After opening your file in your text editor, add or make whatever changes you would like. CTRL + S saves the file, SHIFT + CTRL + W closes the Sublime file.  
 ___
 
-[<<< Configure Git](gitconfig.md) - [Git add, commit, and push >>>](gitaction.md)  
+[<<< Configure Git](gitconfig.md) - [Register for GitHub >>>](github.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
