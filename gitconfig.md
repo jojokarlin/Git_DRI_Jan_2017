@@ -38,7 +38,8 @@ You'll get something that looks like this:
 
 If something seems wrong with your configuration but you just can't figure it out, go to your configuration file for a closer look. This tip courtesy of [story645](https://github.com/story645).
 
-`open .git/config`  
+`open .git/config` if this has been configured for Mac users, or  
+`subl .git/config` for everyone ese
 
 ___  
 For more reading on `git config`, check out this [Git-SCM](https://git-scm.com/book/en/v2/
