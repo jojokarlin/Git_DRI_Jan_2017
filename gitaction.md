@@ -10,7 +10,7 @@ Always check the status (make sure you're in the working directory):
 
 let's open up the cheatsheet we just made and add the things we have learened so far to it.
 
-`subl cheatsheet.md`
+`open cheatsheet.md`
 
 Let's start with these:
 
