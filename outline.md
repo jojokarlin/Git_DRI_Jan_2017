@@ -17,13 +17,16 @@ A conceptual overview of what this is about.
 ##### [Configuring Git](gitconfig.md)
 Set up Git on your computer.
 
+##### [Inititalize Git](gitinit.md)
+Create a new local repositoroy.
+
 ##### [Sign up for GitHub](github.md)
-Sign up for a GitHub account, and connecting it to the Git you just set up on your computer.
+Sign up for a GitHub account, and connect it to the repo you just set up on your computer.
 
 ####~ ~ ~ ~ ~ _Break_ ~ ~ ~ ~ ~
 
 ##### [Git Add, Git Commit, Git Push](gitaction.md)
-Make local changes, track them, and push them to a remote repo.
+Make local changes, track them, and push them to a remote repo on GitHub.
 
 ##### [Git for Collaboration](gitpull.md)
 Make a copy of a repo, and pulling it to your computer to edit locally.
