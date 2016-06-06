@@ -1,4 +1,4 @@
-#Git, GitHub, and Markdown: A Brief Overview and Rationale
+#Git, GitHub, and Markdown: A Brief Overview
 
 ## What is Git? 
 
@@ -20,7 +20,7 @@ Markdown is a way to _mark up_ text in a quick and lightweight manner to format 
 
 You can think of markdown as a language read by many platforms and sites, including GitHub, to stylize text. Markdown is also thought to be more sustainable over time, since it is a plain text file. You'll notice this file is in markdown--check out its extension!
 
-To help you format your text (use markdown to translate plain to pizzaz), try this cheat-sheet: [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). I used it as a reference to create this repo. 
+To help you format your text (use markdown to translate plain to _pizzaz_), try this cheat-sheet: [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). I used it as a reference to create this repo. 
 
 ---
 
