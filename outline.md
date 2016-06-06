@@ -6,26 +6,26 @@ In your browser on your own computer, follow this workshop at [http://github.com
 
 In this workshop, we're going to learn how to use Git, GitHub and markdown in order to develop a workflow for collaborative, version-controlled projects in digital environments. 
 
-##Agenda:
+##Today's Agenda:
 
-##### [Reviewing the Command Line](4_commandLine.md)
+##### [Reviewing the Command Line](commandline.md)
 Using the Command Line to create a Git repository (AKA repo) and a file. 
 
-##### [What is Git, GitHub and Markdown?](2_conceptOverview.md)
+##### [What is Git, GitHub and Markdown?](concept.md)
 A conceptual overview of what this is about.
 
-##### [Configuring Git](3_gitConfig.md)
+##### [Configuring Git](gitconfig.md)
 Set up Git on your computer.
 
-##### [Sign up for GitHub]
+##### [Sign up for GitHub](github.md)
 Sign up for a GitHub account, and connecting it to the Git you just set up on your computer.
 
-~ ~ ~ ~ ~ _Break_ ~ ~ ~ ~ ~
+####~ ~ ~ ~ ~ _Break_ ~ ~ ~ ~ ~
 
-##### [Git Add, Git Commit, Git Push](5_gitAction.md)
+##### [Git Add, Git Commit, Git Push](gitaction.md)
 Make local changes, track them, and push them to a remote repo.
 
-##### [Git for Collaboration](6_forkPull.md)
+##### [Git for Collaboration](gitpull.md)
 Make a copy of a repo, and pulling it to your computer to edit locally.
 
 ---

@@ -12,12 +12,10 @@ This repository houses materials related to the Git Workshop offered at the GC D
 [Using Command Line to Set the Stage: make a directory and initialize](commandline.md)  
 [Git with friends: sign up for GitHub](github.md)  
 [Git Basics 1: add, commit](gitaction.md)  
-[Git Basics 2: push](gitpush.md)
+[Git Basics 2: push](gitpush.md)  
 [Git for Collaboration: cloning and pulling](gitpull.md)  
 
-
 _MASSIVE_ Thanks to **[Mary Catherine McKinniburgh](https://github.com/mckinniburgh/gitWorkshop)**, on whose shoulders I am standing to learn and run this workshop. And Patrick Smyth and Hannah Aizenman who have been indespensible sources of knowledge and support.
-
 ---
 If you ever get lost, at the bottom of each file here, you will find links to these:
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
