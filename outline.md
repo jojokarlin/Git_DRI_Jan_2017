@@ -8,27 +8,27 @@ In this workshop, we're going to learn how to use Git, GitHub and markdown in or
 
 ##Today's Agenda:
 
-##### [Reviewing the Command Line](commandline.md)
+#### [Reviewing the Command Line](commandline.md)
 We will be using the command line to use Git and GitHub.
 
-##### [What is Git, GitHub and Markdown?](concept.md)
+#### [What is Git, GitHub and Markdown?](concept.md)
 A conceptual overview of what this is about.
 
-##### [Configuring Git](gitconfig.md)
+#### [Configuring Git](gitconfig.md)
 Set up Git on your computer.
 
-##### [Inititalize Git](gitinit.md)
+#### [Inititalize Git](gitinit.md)
 Create a new local repositoroy.
 
-##### [Sign up for GitHub](github.md)
+#### [Sign up for GitHub](github.md)
 Sign up for a GitHub account, and connect it remotely to the repo you just set up on your computer.
 
 ####~ ~ ~ ~ ~ _Break_ ~ ~ ~ ~ ~
 
-##### [Git Add, Git Commit, Git Push](gitaction.md)
+#### [Git Add, Git Commit, Git Push](gitaction.md)
 Make local changes, track them, and push them to a remote repo on GitHub.
 
-##### [Git for Collaboration](gitpull.md)
+#### [Git for Collaboration](gitpull.md)
 Make a copy of a repo, and pulling it to your computer to edit locally.
 
 ---
