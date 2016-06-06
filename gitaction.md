@@ -1,4 +1,4 @@
-# Add, and Commit
+# Add and Commit
 
 Continuing the musical metaphor, _adding_ calls your file out of the dressing room.
 
@@ -51,5 +51,5 @@ To combine the commit and add stage, use the command:
 `-a *` commits all files in the repo. `-a file` commits the file listed after `-a`.
 
 ---
-
+[<<< Initialize Git](gitinit.md) - [Git push >>>](gitpush.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
