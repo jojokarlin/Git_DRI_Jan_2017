@@ -4,13 +4,13 @@ In contrast to a GUI, or graphical user interface, the command line lets us tell
 
 The commmand line is one of the primary ways of using Git on your computer. We're going to use this method practice what we learned yesterday, and help us grasp the concepts of Git (and feel like we have computational superpowers, making files appear out of thin air). To review...
 
-### Open your Terminal. 
+#### Open your Terminal. 
 
 Mac: press the space bar and the command key at the same time and type in "terminal."
 
 Windows: launch the command prompt from the run window. 
 
-### Go to your Desktop.
+#### Go to your Desktop.
 
 `cd [name of directory or folder]` will let you navigate inside a directory of your choosing.
 
@@ -26,7 +26,7 @@ Got lost?
 
 End on your Desktop. 
 
-### Make a new folder on your Desktop.
+#### Make a new folder on your Desktop.
 
 `mkdir` makes a new directory.
 
