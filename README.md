@@ -10,7 +10,7 @@ This repository houses materials related to the Git Workshop offered at the GC D
 [Review of the command line](commandline.md)  
 [What is Git, GitHub and Markdown?](concept.md)  
 [Configure Git](gitconfig.md)  
-[Initialize Git](gitinit.md)
+[Initialize Git](gitinit.md)  
 [Git with friends: sign up for GitHub](github.md)  
 [Git add and commit](gitaction.md)  
 [Git push](gitpush.md)  
