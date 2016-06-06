@@ -24,4 +24,4 @@ If you're getting stuck, setting up a [remote repo in GitHub](https://help.githu
 
 ---
 
-[glossary](glossary.md) [helpful commands](helpfulcommands.md)
+[Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
