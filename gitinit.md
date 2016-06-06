@@ -18,11 +18,9 @@ Type `touch gitcheat.md` The '.md' extension means "markdown." You can use `touc
 
 `open gitcheat.md` will let you get started.
 
-Whatever text editor pops up should be the one that you set in your `git config`. We have configured it to use Sublime. To change your text editor, edit the `.git/config`. 
+Whatever text editor pops up should be the one that you set in your `git config`. We have configured it to use Sublime. If Sublime still won't automatically pop up, try `subl gitcheat.md` or just go ahead and open it in Sublime using your GUI.
 
-Using markdown style, give your document a title, insert your name and today's date. For reference, here is the [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) again.
-
-After opening your file in your text editor, add or make whatever changes you would like. CTRL + S saves the file, SHIFT + CTRL + W closes the Sublime file.  
+Using **markdown style**, give your document a title, insert your name and today's date. For reference, here is the [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) again. CTRL + S saves the file, SHIFT + CTRL + W closes the Sublime file.  
 ___
 
 [<<< Configure Git](gitconfig.md) - [Connect to GitHub >>>](github.md)  
