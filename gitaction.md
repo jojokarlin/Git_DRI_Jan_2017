@@ -62,5 +62,5 @@ You'll then be prompted to enter your GitHub username and password. Complete thi
 
 Cheer wildly! (Cue applause)
 ___
-[<<< Initialize Git](gitinit.md) - [Git for Collaboration >>>](gitpull.md)  
+[<<< Connect GitHub](github.md) - [Git for Collaboration >>>](gitpull.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
