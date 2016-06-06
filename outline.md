@@ -4,6 +4,12 @@ In your browser on your own computer, follow this workshop at [http://github.com
 
 In this workshop, we're going to learn how to use Git, GitHub and markdown in order to develop a workflow for collaborative, version-controlled projects in digital environments. 
 
+####_If you have yet to, sign up for a GitHub account..._ 
+
+Registered for a GitHub account by going to [http://github.com/](http://github.com/).  
+
+Open up Sublime and record your username, email, and password. Save the file using an easy to remember name for now, like "github setup" - you will need this information twice more!
+
 ##Today's Agenda:
 
 #### [Reviewing the Command Line](commandline.md)
@@ -18,8 +24,8 @@ Set up Git on your computer.
 #### [Inititalize Git](gitinit.md)
 Create a new local repositoroy.
 
-#### [Sign up for GitHub](github.md)
-Sign up for a GitHub account, and connect it remotely to the repo you just set up on your computer.
+#### [Connect to GitHub](github.md)
+Connect your remote GitHub to the local repo you just set up on your computer.
 
 ####~ ~ ~ ~ ~ _Break_ ~ ~ ~ ~ ~
 
