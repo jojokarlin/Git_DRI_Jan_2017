@@ -4,7 +4,9 @@ Using `cd`, navigate inside the folder 'GitPractice.'
 
 Type `git init` and hit enter.
 
-This initializes the Git repository. It _sets the stage_ for the magic you want to create! 
+This initializes the Git repository so it knows to pay attention to this folder. 
+
+You should see something like `Initialized empty Git repository in /Users/gcdri/Desktop/GitPractice/.git/`
 
 ### Create a file in your folder.  
 
