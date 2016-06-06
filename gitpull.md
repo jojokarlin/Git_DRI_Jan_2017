@@ -9,7 +9,7 @@ This clones a remote repo to your local Git so you can begin to edit it.
 
 We will be using the [New York Public Library's database](https://github.com/GCDigitalFellows/nypl_data) for Ian's databases workshop tomorrow, so let's make a clone of it now.
 
-`git clone https://github.com/GCDigitalFellows/GCDRI`
+`git clone https://github.com/GCDigitalFellows/nypl_data`
 
 Also, see if you can use the GUI on GitHub (just the buttons on the web page) to do the same thing. There should be a little "clone or download" button near the top right of each repo. 
 
