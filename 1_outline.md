@@ -4,11 +4,9 @@
 
 In your browser on your own computer, follow this workshop at [http://github.com/jentang/GitDRI](https://github.com/jentang/GitDRI)
 
----
-
 In this workshop, we're going to learn how to use Git, GitHub and markdown in order to develop a workflow for collaborative, version-controlled projects in digital environments. 
 
-Here's our agenda:
+##Agenda:
 
 #### [Reviewing the Command Line](4_commandLine.md)
 Using the Command Line to create a Git repository (AKA repo) and a file. 
