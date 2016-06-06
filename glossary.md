@@ -32,7 +32,7 @@ Here's a glossary for the basic Git and Github terms that you'll need for this w
 _If there's anything missing, remember that you can fork this repo, add what you'd like to see, and send a pull request!_
 ___
 Sources and further reading: 
--[http://git-scm.com/book/en/v2/](http://git-scm.com/book/en/v2/)
 
--[http://help.github.com/articles/](http://help.github.com/articles/)
--[http://help.github.com/articles/github-glossary/](http://help.github.com/articles/github-glossary/)
+- [http://git-scm.com/book/en/v2/](http://git-scm.com/book/en/v2/)
+- [http://help.github.com/articles/](http://help.github.com/articles/)
+- [http://help.github.com/articles/github-glossary/](http://help.github.com/articles/github-glossary/)
