@@ -14,6 +14,12 @@ Git is the **local** power behind *version control*.
 
 Github _connects_ Git repositories remotely and is the power behind *collaboration*.
 
+### Sign up for a GitHub account
+
+Registered for a GitHub account by going to [http://github.com/](http://github.com/).  
+
+Open up Sublime and record your username, email, and password. Save the file using an easy to remember name for now, like "github setup" - you will need this information twice more!
+
 ## What is Markdown?
 
 Markdown is a way to _mark up_ text in a quick and lightweight manner to format the text, rendering more attractive files. 
@@ -26,6 +32,6 @@ To help you format your text (use markdown to translate plain to _pizzaz_), try 
 
 For more: [Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text Using Pandoc and Markdown."](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)  
 
-[<<<Command line](commandline.md) - [Configure Git>>>](gitconfig.md)
+[<<< Command line](commandline.md) - [Configure Git >>>](gitconfig.md)
 
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md) 
