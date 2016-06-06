@@ -9,7 +9,7 @@ In this workshop, we're going to learn how to use Git, GitHub and markdown in or
 ##Today's Agenda:
 
 ##### [Reviewing the Command Line](commandline.md)
-Using the Command Line to create a Git repository (AKA repo) and a file. 
+We will be using the command line to use Git and GitHub.
 
 ##### [What is Git, GitHub and Markdown?](concept.md)
 A conceptual overview of what this is about.
@@ -21,7 +21,7 @@ Set up Git on your computer.
 Create a new local repositoroy.
 
 ##### [Sign up for GitHub](github.md)
-Sign up for a GitHub account, and connect it to the repo you just set up on your computer.
+Sign up for a GitHub account, and connect it remotely to the repo you just set up on your computer.
 
 ####~ ~ ~ ~ ~ _Break_ ~ ~ ~ ~ ~
 
