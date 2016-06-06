@@ -1,6 +1,4 @@
 #Making a copy of a repo to work on locally
-
-
 ## Cloning
 
 A **clone** is a local copy of a repository.  
@@ -11,7 +9,7 @@ This clones a remote repo to your local Git so you can begin to edit it.
 
 We will be using the New York Public Library's database for [Ian's databases workshop tomorrow](https://github.com/GCDigitalFellows/GCDRI_databases), so let's make a clone of it now.
 
-'git clone https://github.com/GCDigitalFellows/GCDRI_databases'
+`git clone https://github.com/GCDigitalFellows/GCDRI_databases`
 
 Also, see if you can use the GUI on GitHub (just the buttons on the web page) to do the same thing. There should be a little "clone or download" button near the top right of each repo. 
 
@@ -21,6 +19,7 @@ If you receive an error notification that you are unable to push changes to your
 
 `git pull [URL of your GitHub repo]`
 
-Remember, what you don't know can _always_ be Googled or looked up on Stack Overflow!
+Remember, what you don't know can _always_ be Googled or looked up on Stack Overflow!  
 ---
+[<<< Git add, commit, and push](gitaction.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
