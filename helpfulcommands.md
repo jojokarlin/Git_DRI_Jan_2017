@@ -1,6 +1,5 @@
 Here is a list of commands that will help you navigate Git and GitHub in your command line. 
 
-*Note: these are Mac commands! Windows forthcoming.*
 
 `cd [name of directory or folder]` will navigate you into the directory you identified.
 
@@ -20,7 +19,7 @@ Here is a list of commands that will help you navigate Git and GitHub in your co
 
 `git status` checks the status of your commits. Use often!
 
-`git add [filename].md` stages the file.
+`git add [filename].[extension]` stages the file.
 
 `git commit -a` or `git commit -m "(text)"` commits the changes. 
 
