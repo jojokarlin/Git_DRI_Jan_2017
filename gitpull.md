@@ -15,7 +15,7 @@ We will be using the [New York Public Library's database](https://github.com/GCD
 
 ####Option 2
 
-Clone the [repo for this workshop](https://github.com/jentang/GitDRI)!
+Clone the [repo for this workshop](https://github.com/jentang/GitDRI) so you can have a copy for yourself!
 
 `git clone https://github.com/jentang/GitDRI`
 
