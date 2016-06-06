@@ -14,11 +14,7 @@ Git is the **local** power behind *version control*.
 
 Github _connects_ Git repositories remotely and is the power behind *collaboration*.
 
-#### Sign up for a GitHub account
-
-Registered for a GitHub account by going to [http://github.com/](http://github.com/).  
-
-Open up Sublime and record your username, email, and password. Save the file using an easy to remember name for now, like "github setup" - you will need this information twice more!
+_If you have not signed up for a GitHub account, go to [http://github.com/](http://github.com/). Remember to save your user name, email, and password as you will need this information twice more!_
 
 ## What is Markdown?
 
