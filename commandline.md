@@ -12,12 +12,19 @@ Windows: launch the command prompt from the run window.
 
 ### Go to your Desktop.
 
-Do you remember this from yesterday?
-
 `cd [name of directory or folder]` will let you navigate inside a directory of your choosing.
 
 Type `cd Desktop` and hit enter.
 
+Now, `cd ~` lets you go back a directory.
+
+Practice going back and forth between your Desktop and your home directory. Experiment! The more you type the more natural the command line will feel. 
+
+Got lost?
+
+`pwd` or "print working directory" will tell you where you are if you get a little lost.
+
+End on your Desktop. 
 
 ### Make a new folder on your Desktop.
 
