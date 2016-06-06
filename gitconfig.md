@@ -21,12 +21,14 @@ Type the following into your command line, filling in the sections for your user
 
 `git config --global core.editor "subl -n -w"`
 
-The `-n` prompts Sublime to open in a new window, and the `-w` prompts it to wait for the application to close.
+You don't have to use Sublime as your text editor, but for simplicity and consistency, we are asking everyone to use Sublime as your editor this week. The `-n` prompts Sublime to open in a new window, and the `-w` prompts it to wait for the application to close.
 
-You don't have to use Sublime as your text editor, but for simplicity and consistency, we are asking everyone to use Sublime as your editor this week. 
+If Sublime is not coming up as your defaul text editor and you are using a Mac, type:  
+`ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl`  
+Otherwise, type:  
+`ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl`
 
-To check your set-up, use:
-
+To check your set-up, use:  
 `git config --list`
 
 You'll get something that looks like this:
@@ -38,8 +40,7 @@ You'll get something that looks like this:
 
 If something seems wrong with your configuration but you just can't figure it out, go to your configuration file for a closer look. This tip courtesy of [story645](https://github.com/story645).
 
-`open .git/config` if this has been configured for Mac users, or  
-`subl .git/config` for everyone ese
+`open .git/config` or `subl .git/config`
 
 ___  
 For more reading on `git config`, check out this [Git-SCM](https://git-scm.com/book/en/v2/
