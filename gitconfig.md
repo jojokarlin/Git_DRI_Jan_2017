@@ -40,5 +40,6 @@ You'll get something that looks like this:
 ___  
 For more reading on `git config`, check out this [Git-SCM](https://git-scm.com/book/en/v2/
 Getting-Started-First-Time-Git-Setup) tutorial, which was a helpful reference in the making of this resource.  
+
 [<<<Conceptual overview](concept.md) - [Initialize Git>>>](gitinit.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
