@@ -1,6 +1,6 @@
-# Setting up Your Remote Repo
+# Connect to Your Remote Repo
 
-Now, let's add the directory you made to GitHub so we can share it with others and start collaborating.
+Now, let's connect the directory you made to GitHub so we can share it with others and start collaborating.
 
 - Go to **GitHub** in your browser and click the plus sign in the upper right hand corner to create a new remote repo. 
 
