@@ -8,7 +8,7 @@ In this workshop, we're going to learn how to use Git, GitHub and markdown in or
 
 Registered for a GitHub account by going to [http://github.com/](http://github.com/).  
 
-Open up Sublime and record your username, email, and password. Save the file using an easy to remember name for now, like "github setup" - you will need this information twice more!
+Open up Sublime and record your username, email, and password in the projects folder you created on your Desktop yesterday. Save the file using an easy to remember name for now, like "github_setup" - you will need this information twice more!
 
 ##Today's Agenda:
 
