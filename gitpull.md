@@ -20,6 +20,6 @@ If you receive an error notification that you are unable to push changes to your
 `git pull [URL of your GitHub repo]`
 
 Remember, what you don't know can _always_ be Googled or looked up on Stack Overflow!  
----
-[<<< Git add, commit, and push](gitaction.md)  
+___
+[<<< Git add, commit, and push](gitaction.md) - [Return to repo](https://github.com/jentang/GitDRI)
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
