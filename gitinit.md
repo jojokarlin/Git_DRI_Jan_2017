@@ -6,7 +6,7 @@ Type `git init` and hit enter.
 
 This initializes the Git repository. It _sets the stage_ for the magic you want to create! 
 
-### Create a file in your folder  
+### Create a file in your folder.  
 
 We are going to make our own cheatsheet as a plain text markdown file.
 
@@ -14,7 +14,7 @@ Make sure you're navigated inside your GitPractice folder. Use `cd` or `cd ..` a
 
 Type `touch cheatsheet.md` The '.md' extension means "markdown." You can use `touch` to create other types of files too: `touch [name].[extension]`.
 
-### Start your file
+### Start your file.
 
 `open cheatsheet.md` will let you get started.
 
