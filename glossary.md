@@ -1,3 +1,5 @@
+##Glossary
+
 Here's a glossary for the basic Git and Github terms that you'll need for this workshop. 
 
 If there's anything missing, remember that you can fork this repo, add what you'd like to see, and send a pull request!
