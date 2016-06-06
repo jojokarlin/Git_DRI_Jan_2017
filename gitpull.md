@@ -21,5 +21,5 @@ If you receive an error notification that you are unable to push changes to your
 
 Remember, what you don't know can _always_ be Googled or looked up on Stack Overflow!  
 ___
-[<<< Git add, commit, and push](gitaction.md) - [Return to repo](https://github.com/jentang/GitDRI)
+[<<< Git add, commit, and push](gitaction.md) - [Return to repo](https://github.com/jentang/GitDRI)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
