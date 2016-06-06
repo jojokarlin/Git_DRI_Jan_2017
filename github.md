@@ -32,5 +32,5 @@ This will link the local and remote repo. To confirm, type:
 If you're getting stuck, setting up a [remote repo in GitHub](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/) is a good resource.
 
 ---
-
+[<<< Initialize Git](gitinit.md) - [Git add, commit, and push >>>](gitaction.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
