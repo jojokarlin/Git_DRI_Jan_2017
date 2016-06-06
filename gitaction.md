@@ -63,5 +63,5 @@ Refresh GitHub in the browser to see your changes.
 
 Cheer wildly!
 ___
-[<<< Connect GitHub](github.md) - [Cloning from GitHub >>>](gitpull.md)  
+[<<< Connect GitHub](github.md) - [Making a copy from GitHub >>>](gitpull.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
