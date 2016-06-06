@@ -8,9 +8,9 @@ Now, let's connect the directory you made to GitHub so we can share it with othe
 
 - Navigate to your new remote repo in the browser, and copy its HTTPS: URL. 
 
-In the **command line**, check your git status
+![alt text][github URL]
 
-`git status`
+[github URL]: https://github.com/jentang/GitDRI/blob/master/github%20URL.png "URL is in the browser"
 
 and make sure all your commits are up to date. When they are, type
 
