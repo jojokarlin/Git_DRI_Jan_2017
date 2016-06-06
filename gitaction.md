@@ -61,6 +61,6 @@ In the command line, type:
 You'll then be prompted to enter your GitHub username and password. Complete this step, then refresh GitHub in the browser to see your changes. 
 
 Cheer wildly! (Cue applause)
----
+___
 [<<< Initialize Git](gitinit.md) - [Git for Collaboration >>>](gitpull.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
