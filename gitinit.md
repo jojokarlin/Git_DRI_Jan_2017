@@ -20,7 +20,7 @@ Type `touch cheatsheet.md` The '.md' extension means "markdown." You can use `to
 
 Whatever text editor pops up should be the one that you set in your `git config`. We have configured it to use Sublime. To change your text editor, edit the `.git/config`. 
 
-Using markdown style, give your document a title, insert your name and today's date.
+Using markdown style, give your document a title, insert your name and today's date. For reference, here is the [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) again.
 
 After opening your file in your text editor, add or make whatever changes you would like. CTRL + S saves the file, SHIFT + CTRL + W closes the Sublime file.  
 ___
