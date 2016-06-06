@@ -7,7 +7,7 @@ A **clone** is a local copy of a repository.
 
 This clones a remote repo to your local Git so you can begin to edit it. 
 
-We will be using the [New York Public Library's database](https://github.com/GCDigitalFellows) UPDATE LINK for Ian's databases workshop tomorrow, so let's make a clone of it now.
+We will be using the [New York Public Library's database](https://github.com/GCDigitalFellows/nypl_data) for Ian's databases workshop tomorrow, so let's make a clone of it now.
 
 `git clone https://github.com/GCDigitalFellows/GCDRI`
 
