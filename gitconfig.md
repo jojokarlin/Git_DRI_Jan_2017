@@ -23,12 +23,6 @@ Type the following into your command line, filling in the sections for your user
 
 You don't have to use Sublime as your text editor, but for simplicity and consistency, we are asking everyone to use Sublime as your editor this week. The `-n` prompts Sublime to open in a new window, and the `-w` prompts it to wait for the application to close.
 
-Check that sublime is working by typing: `subl`. If Sublime Text editor pops up, then it is working for you!
-
-####If Sublime is not coming up as your defaul text editor  
-**Mac,** follow the instructions from our [install core] (https://github.com/GCDigitalFellows/installdri.github.io/blob/master/core.md).  
-**Windows,** follow these instructions to [open Sublime Text from the command line using subl.exe](https://scotch.io/tutorials/open-sublime-text-from-the-command-line-using-subl-exe-windows).
-
 To check your set-up, use:  
 `git config --list`
 
