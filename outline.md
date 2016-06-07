@@ -21,8 +21,8 @@ A conceptual overview of what this is about.
 #### [Configuring Git](gitconfig.md)
 Set up Git on your computer.
 
-#### [Inititalize Git](gitinit.md)
-Create a new local repositoroy.
+#### [Initialize Git](gitinit.md)
+Create a new local repository.
 
 #### [Connect to GitHub](github.md)
 Connect your remote GitHub to the local repo you just created on your computer.
