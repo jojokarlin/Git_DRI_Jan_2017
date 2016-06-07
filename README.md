@@ -20,3 +20,5 @@ _MASSIVE_ Thanks to **[Mary Catherine McKinniburgh](https://github.com/mckinnibu
 ---  
 If you ever get lost, at the bottom of each file here, you will find links to these:
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
+
+[Direct link to Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
