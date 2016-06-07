@@ -1,10 +1,10 @@
 # Connect to Your Remote Repo
 
-Now, let's connect the directory you made to GitHub so we can share it with others and start collaborating.
+Now, let's connect the directory you made to GitHub so we can share it with others.
 
 - Go to **GitHub** in your browser and click the plus sign in the upper right hand corner to create a new remote repo. 
 
-- Give it the same name as your local repo. Skip the "add README.md" step, since you're importing an existing directory.
+- Give it the same name as your local repo. Skip the "add README.md" step, since you'll be importing an existing directory.
 
 - Navigate to your new remote repo in the browser, and copy its HTTPS: URL. 
 
@@ -12,9 +12,7 @@ Now, let's connect the directory you made to GitHub so we can share it with othe
 
 [github URL]: https://github.com/jentang/GitDRI/blob/master/github%20URL.png "URL is in the browser"
 
-and make sure all your commits are up to date. When they are, type
-
-`git remote add origin [URL of your remote repo]` 
+Type `git remote add origin [URL of your remote repo]` 
 
 This will link the local and remote repo. To confirm, type:
 
