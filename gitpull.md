@@ -23,7 +23,7 @@ Also, see if you can use the GUI on GitHub (just the buttons on the web page) to
 
 ## Pulling
 
-If you receive an error notification that you are unable to push changes to your GitHub repo from your local repo, it often means that changes have been made to your GitHub repo that have not yet been logged locally. You'll have to pull the repo, then merge the changes by using `git commit -u origin master` (or whatever branch in which you're working) in order to return to smooth sailing with your `git push` commands. 
+If you receive an error notification that you are unable to push changes to your GitHub repo from your local repo, it often means that changes have been made to your GitHub repo that have not yet been logged locally. You'll have to pull the repo, then merge the changes by using `git commit -u origin master` in order to return to smooth sailing with your `git push` commands. 
 
 `git pull [URL of your GitHub repo]`
 
