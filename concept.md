@@ -4,7 +4,7 @@
 
 **Git** is a version control tool. It lives on your computer (is local), and is accessed through the command line. 
 
-Git tracks changes when the user tells it to: `git add` cues up revisions, and `git commit -a` adds modified files. All files live in the `.git` repository--again, on your computer.
+Git tracks changes when the user tells it to `git add` cues up revisions, and `git commit` adds modified files. All files live in the `.git` repository--again, on your computer.
 
 Git is the **local** power behind *version control*.
 
