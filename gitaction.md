@@ -33,23 +33,20 @@ This stages the file to be tracked, and prepares it to be committed.
 If you have been working on multiple files, `git add --all` adds all files if you have many to be tracked.
 
 ## Git Commit
+Type: `git commit -m "[add a message here about the commits you're making]"`
 
-To commit a file, type: `git commit` and your text editor should pop up for you to specify the kind of changes you are committing. Remember to save it!
-
-Or, you can type: `git commit -m "(add a message here about the commits you're making)"` to type the message directly in the command line without having to switch to your text editor.
-
-Remember, being brief but descriptive about changes will let both you and your collaborators know the differences between your versions. 
+Be brief but descriptive about changes in this version so that both you and your collaborators know the differences between your versions. 
 
 Congrats! You've committed your first changes to your _local_ Git repo.
 
-To commit a bunch of files at a time, use the command:  
-`git commit -a`  
-`-a file` commits the file listed after `-a`.
+To commit and add at the same time, use the command:  
+ `git commit -a`  
+ `git commit -am "[message about the commits]"` 
 
 ####You can practice by inserting these to your gitcheat.md file:
  - git status
  - git add
- - git commit -m "(message)"
+ - git commit -m "[message]"
 
 and even this command we will be explaining below  
  - git push -u origin master
@@ -68,6 +65,8 @@ You'll then be prompted to enter your GitHub username and password.
 Refresh GitHub in the browser to see your changes. 
 
 ####Cheer wildly!
+
+Subsequently, you can just use `git push`
 ___
 [<<< Connect GitHub](github.md) - [Making a copy from GitHub >>>](gitpull.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
