@@ -19,10 +19,6 @@ Type the following into your command line, filling in the sections for your user
 
 `git config --global user.email johndoe@example.com`
 
-`git config --global core.editor "subl -n -w"`
-
-You don't have to use Sublime as your text editor, but for simplicity and consistency, we are asking everyone to use Sublime as your editor this week. The `-n` prompts Sublime to open in a new window, and the `-w` prompts it to wait for the application to close.
-
 To check your set-up, use:  
 `git config --list`
 
@@ -30,9 +26,6 @@ You'll get something that looks like this:
 
 `user.name=Superstar Git User`  
 `user.email=gitsuperstar@gmail.com.`  
-`color.ui=auto`  
-`core.editor=subl -n -w`
-
 ___  
 For more reading on `git config`, check out this [Git-SCM](https://git-scm.com/book/en/v2/
 Getting-Started-First-Time-Git-Setup) tutorial, which was a helpful reference in the making of this resource.  
