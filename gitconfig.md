@@ -1,7 +1,6 @@
 # Configure Git
 
 First, we're going to configure Git using the command line.  
-_Make sure *Git* and is *Sublime Text 3* are installed on your computer. If not, click the following link for our [install instructions](https://github.com/GCDigitalFellows/installdri.github.io/blob/master/core.md)._  
 
 ####Open your terminal/bash.
 
