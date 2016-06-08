@@ -4,19 +4,33 @@ Now, let's connect the directory you made to GitHub so we can share it with othe
 
 - Go to **GitHub** in your browser and click the plus sign in the upper right hand corner to create a new remote repo. 
 
-- Give it the same name as your local repo. Skip the "add README.md" step, since you'll be importing an existing directory.
+![alt text][addrepo]
 
-- Navigate to your new remote repo in the browser, and copy its HTTPS: URL. 
+[addrepo]: https://github.com/jentang/GitDRI/blob/master/images/addrepo.png "you can find the plus sign button to add a repo on the top right of github"
+
+- Give it the same name as your local repo. 
+- Select Public 
+- *Do not* select "Initialize this repository with a README" since you will be importing an existing directory.
+- Click Create repository
+
+![alt text][createrepo]
+
+[createrepo]: https://github.com/jentang/GitDRI/blob/master/images/createrepo.png "what it should look like when you are creating your repo"
+
+- You should end up inside your newly created GitPractice repo. If not, navigate to your new remote repo in the browser, and copy its HTTPS: URL (highlighted in light blue).
 
 ![alt text][github URL]
 
-[github URL]: https://github.com/jentang/GitDRI/blob/master/github%20URL.png "URL is in the browser"
+[github URL]: https://github.com/jentang/GitDRI/blob/master/images/github%20URL.png "URL is in the browser"
 
-Type `git remote add origin [URL of your remote repo]` 
+On your command line, type `git remote add origin [URL of your remote repo]` 
 
-This will link the local and remote repo. To confirm, type:
+This will link the local and remote repo.  
+To confirm, type `git remote -v` and hit enter.
 
-`git remote -v`
+You should see something like  
+`Origin https://github.com/jentang/GitDRI (fetch)  
+Origin https://github.com/jentang/GitDRI (push)`
 
 If you're getting stuck, setting up a [remote repo in GitHub](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/) is a good resource.
 
