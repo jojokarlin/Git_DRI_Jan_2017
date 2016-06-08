@@ -8,9 +8,9 @@
 [version_control]: https://github.com/jentang/GitDRI/blob/master/images/version_control.png "Screenshot of different versions logged via git"  
 Above, you can see different versions of the GCDRI's apply webpage over time. Starting from when Keith copied everything over from the repo for our old GCDRB (GC Digital Research Bootcamp) website, to fixing broken links, making stylistic tweaks, adding the new application form, and finally closing applications. Each version is logged here.
 
-Git tracks changes when the user tells it to `git add` cues up changes, and `git commit` logs the different versions you see here. When you `git add` and `git commit`, all these files live in the `.git` repository on your computer.
+Git tracks changes when the user tells it to `git add` a file, and `git commit` logs the different versions you see here. When you `git add` and `git commit`, all these files live in the `.git` repository on your computer.
 
-Git is the **local** power behind *version control*.
+Git is the *local* power behind *version control*.
 
 ## What is GitHub?
 
