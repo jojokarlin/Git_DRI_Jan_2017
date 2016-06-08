@@ -18,16 +18,15 @@ Type `touch gitcheat.md` The '.md' extension means "markdown." You can use `touc
 
 ### Start your file.
 
-`open gitcheat.md` will let you get started.
+Open your gitcheat.md in your text editor. We have been using Sublime.
 
-Whatever text editor pops up should be the one that you set in your `git config`. We have configured it to use Sublime. If Sublime still won't automatically pop up, try `subl gitcheat.md` or just go ahead and open it in Sublime using your GUI.
-
-Using **markdown style**, give your document a title, insert your name and today's date. For reference, here is the [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) again. 
+Give your document a title, insert your name and today's date. 
 
 ![alt text][gitcheat start]
 
-[gitcheat start]: https://github.com/jentang/GitDRI/blob/master/gitcheat%20start.png "How the start of your git cheatsheet might look inn sublime"
-CTRL + S saves the file, SHIFT + CTRL + W closes the Sublime file.  
+[gitcheat start]: https://github.com/jentang/GitDRI/blob/master/images/gitcheat%20start.png "How the start of your git cheatsheet might look in sublime"
+You'll notice that I added a # before my title, and two asterisks around Name and Date. This is because I am using **markdown** to cue a heading, and to bold text. Try using markdown yourself to add some pizzaz! To make something show up on the next line, add two spaces at the end of each line. To make something appear as a new paragraph, leave an empty line in between. For reference, here is the [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) again.  
+CTRL + S saves the file, SHIFT + CTRL + W closes the Sublime window.  
 ___
 
 [<<< Configure Git](gitconfig.md) - [Connect to GitHub >>>](github.md)  
