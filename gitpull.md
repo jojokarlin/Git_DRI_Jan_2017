@@ -23,11 +23,8 @@ We will be using the [New York Public Library's database](https://github.com/GCD
 
 ## Pulling
 
-If you receive an error notification that you are unable to push changes to your GitHub repo from your local repo, it often means that changes have been made to your GitHub repo that have not yet been logged locally. You'll have to pull the repo, then merge the changes by using `git commit -u origin master` in order to return to smooth sailing with your `git push` commands. 
+If you receive an error notification that you are unable to push changes to your GitHub repo from your local repo, it often means that changes have been made to your GitHub repo that have not yet been logged locally. You'll have to pull the repo, using `git pull [URL of your GitHub repo]` then merge the changes by using `git commit -u origin master` in order to return to smooth sailing with your `git push` commands. 
 
-`git pull [URL of your GitHub repo]`
-
-Remember, what you don't know can _always_ be Googled or looked up on Stack Overflow!  
 ___
-[<<< Git add, commit, and push](gitaction.md) - [Return to repo](https://github.com/jentang/GitDRI)  
+[<<< Git add, commit, and push](gitaction.md) - [Summary >>>](summary.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
