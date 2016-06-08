@@ -23,9 +23,9 @@ Now, let's connect the directory you made to GitHub so we can share it with othe
 
 [github URL]: https://github.com/jentang/GitDRI/blob/master/images/github%20URL.png "URL is in the browser"
 
-On your command line, type `git remote add origin [URL of your remote repo]` 
-
+On your command line, type `git remote add origin [URL of your remote repo]`  
 This will link the local and remote repo.  
+
 To confirm, type `git remote -v` and hit enter.
 
 You should see something like  
