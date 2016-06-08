@@ -1,24 +1,19 @@
 # Add, Commit, and Push
 
-You can use Git to track the different versions of a file by first _adding_ it so that Git is aware of the file you are interested in, second _commiting_ the changes you made. This all happens on your local computer. When you want these changes to be visible on the remote repo you are connected to, you then _push_ it from the local to the remote.
-
-Always check the status (make sure you're in the working directory):
-
-`git status`
+You can use Git to track the different versions of a file by first _adding_ it so that Git is aware of the file you are interested in, second _commiting_ the changes you made. This all happens on your **local computer**. When you want these changes to be visible on the remote repo you are connected to, you then _push_ it from the local to the remote.
 
 ## Making changes
 
-If you closed it, let's open up the cheatsheet we just made.  
-`open gitcheat.md`
-
-Or, if it's already open, add the things we have learened so far to it.
+Return to the gitcheat.md you had made and add some notes about the commands we have learened so far to it.
 
 Let's start with these:
 
-- git config -- global user.name "[name]
+- git config --global user.name "[name]
 - git config --global user.email "[email address]
-- git config --global core.editor "subl -n -w"
 - git config --list
+- git init
+- git remote add origin [URL of your remote repo]
+- git remote -v
 
 Remember to save it!
 
@@ -41,32 +36,36 @@ Congrats! You've committed your first changes to your _local_ Git repo.
 
 To commit and add at the same time, use the command:  
  `git commit -a`  
- `git commit -am "[message about the commits]"` 
+But keep in mind that this does not include a message out the version you just logged. To add and commit *with* a message about this version, use:  
+ `git commit -am "[message about the commits]"`  
 
-####You can practice by inserting these to your gitcheat.md file:
+It is good practice to check your status (make sure you're in the working directory) using:  
+`git status`  
+
+Git will tell you if changes have been made but not "staged" (i.e. not added) or committed. 
+
+####You can practice adding and committing by inserting these to your gitcheat.md file:
  - git status
  - git add
  - git commit -m "[message]"
-
-and even this command we will be explaining below  
- - git push -u origin master
+ - git commit -am "[message]"
  
-Now, how do you get these changes onto a shared GitHub so that others can see your good work?
+Now, how do you get these changes onto GitHub so that others can see your good work?
 
 ## Git Push
 
 Because our local and remote repos are connected, we can `push` our local repo to its remote directory. 
 
-In the command line, type:
-
+In the command line, type:  
 `git push -u origin master` (this pushes to the master branch)
 
-You'll then be prompted to enter your GitHub username and password.  
+You'll then be prompted to enter your GitHub username and password.
+
 Refresh GitHub in the browser to see your changes. 
 
 ####Cheer wildly!
 
-Subsequently, you can just use `git push`
+Subsequently, you can just use `git push` to push commits from your local repo to your remote repo on GitHub.  
 ___
 [<<< Connect GitHub](github.md) - [Making a copy from GitHub >>>](gitpull.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
