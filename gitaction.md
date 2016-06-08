@@ -4,10 +4,9 @@ You can use Git to track the different versions of a file by first _adding_ it s
 
 ## Making changes
 
-Return to the gitcheat.md you had made and add some notes about the commands we have learened so far to it.
+Return to the gitcheat.md you've made and add some notes about the commands we have learened so far to it.
 
-Let's start with these:
-
+Let's start with these:  
 - git config --global user.name "[name]
 - git config --global user.email "[email address]
 - git config --list
@@ -19,8 +18,7 @@ Remember to save it!
 
 ## Git Add
 
-In your working directory in the command line, type:
-
+In your working directory (GitPractice) in the command line, type:  
 `git add gitcheat.md`
 
 This stages the file to be tracked, and prepares it to be committed.  
@@ -32,7 +30,7 @@ Type: `git commit -m "[add a message here about the commits you're making]"`
 
 Be brief but descriptive about changes in this version so that both you and your collaborators know the differences between your versions. 
 
-Congrats! You've committed your first changes to your _local_ Git repo.
+#####Congrats! You've committed your first changes to your _local_ Git repo!
 
 To commit and add at the same time, use the command:  
  `git commit -a`  
@@ -44,7 +42,7 @@ It is good practice to check your status (make sure you're in the working direct
 
 Git will tell you if changes have been made but not "staged" (i.e. not added) or committed. 
 
-####You can practice adding and committing by inserting these to your gitcheat.md file:
+#####You can practice adding and committing by inserting these into your gitcheat.md file:
  - git status
  - git add
  - git commit -m "[message]"
@@ -63,9 +61,9 @@ You'll then be prompted to enter your GitHub username and password.
 
 Refresh GitHub in the browser to see your changes. 
 
-####Cheer wildly!
+#####Cheer wildly!
 
-Subsequently, you can just use `git push` to push commits from your local repo to your remote repo on GitHub.  
+After your first commit, you can just use `git push` to push commits from your local repo to your remote repo on GitHub.  
 ___
 [<<< Connect GitHub](github.md) - [Making a copy from GitHub >>>](gitpull.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
