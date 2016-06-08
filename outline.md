@@ -35,6 +35,8 @@ Make local changes, track them, and push them to a remote repo on GitHub.
 #### [Git for Collaboration](gitpull.md)
 Make a copy of a repo, and pulling it to your computer to edit locally.
 
+#### [Summary](summary.md)
+Review what we've learned in this workshop.
 ---
 [Command Line >>>](commandline.md)  
 _I have linked the [glossary](glossary.md) and [helpful commands](helpfulcommands.md) at the bottom of each page._
