@@ -15,16 +15,18 @@ Here is a list of commands that we used in this workshop to navigate Git and Git
 
 `touch [name].md` makes a new markdown file, which is plain text, in whatever directory you're in in the command line. 
 
-`open [name].[extension]` lets you open a file and begin editing it. 
+`touch [name].[extension]` makes the type of file you specify in whatever directory you're in in the command line. 
 
 `git status` checks the status of your commits. Use often!
 
 `git add [filename].[extension]` stages the file.
 
-`git commit -a` or `git commit -m "(text)"` commits the changes. 
+`git commit -m "[text]"` commits the changes, with a note about this commit. 
+
+`git commit -am "[text]"` adds and commits changes at the same time
 
 `git push -u origin master` pushes commits to the master branch.
 
 `git pull [URL of remote repo]` updates your local repo with remote changes. 
 
-`git clone [URL of remote repo]` makes a local copy of a repo for you to edit.
+`git clone [URL of remote repo]` makes a local copy of a remote repo for you to edit.
