@@ -25,7 +25,7 @@ Give your document a title, insert your name and today's date.
 ![alt text][gitcheat start]
 
 [gitcheat start]: https://github.com/jentang/GitDRI/blob/master/images/gitcheat%20start.png "How the start of your git cheatsheet might look in sublime"
-You'll notice that I added a # before my title, and two asterisks around Name and Date. This is because I am using **markdown** to cue a heading, and to bold text. Try using markdown yourself to add some pizzaz! To make something show up on the next line, add two spaces at the end of each line. To make something appear as a new paragraph, leave an empty line in between. For reference, here is the [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) again.  
+You'll notice that I added a # before my title, and two asterisks around Name and Date. This is because I am using **markdown** to cue a heading, and to bold text. Try using markdown yourself to add some pizzaz to your text! To make something show up on the next line, add two spaces at the end of each line. To make something appear as a new paragraph, leave an empty line in between. For reference, here is the [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) again.  
 CTRL + S saves the file, SHIFT + CTRL + W closes the Sublime window.  
 ___
 
