@@ -15,13 +15,14 @@ Now, let's connect the directory you made to GitHub so we can share it with othe
 
 ![alt text][createrepo]
 
-[createrepo]: https://github.com/jojokarlin/GitDRI/blob/master/images/createrepo.png "what it should look like when you are creating your repo"
+[createrepo]: https://github.com/jojokarlin/GitDRI/blob/master/images/createrepo.png "choose create repository from your dropdown menu"
+[createrepo2]: https://github.com/jojokarlin/GitDRI/blob/master/images/createrepo2.png "what it should look like when you are creating your repo"
 
 - You should end up inside your newly created GitPractice repo. If not, navigate to your new remote repo in the browser, and copy its HTTPS: URL (highlighted in light blue).
 
 ![alt text][github URL]
 
-[github URL]: https://github.com/jojokarlin/GitDRI/blob/master/images/github%20URL.png "URL is in the browser"
+[github URL]: https://github.com/jojokarlin/GitDRI/blob/master/images/github%20URL.png "copy the URL from your browser"
 
 On your command line, type `git remote add origin [URL of your remote repo]`  
 This will link the local and remote repo.  
