@@ -1,7 +1,7 @@
 ##Glossary
 Here's a glossary for the basic Git and Github terms that you'll need for this workshop:
 
-**Git**: the version-control tool that lives on your computer. 
+**Git**: a version-control tool that lives on your computer. 
 
 **working directory**: a group of files you're in the process of editing.
 

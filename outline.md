@@ -1,6 +1,6 @@
 # Using Git and GitHub to Manage Collaborative Workflow!
 
-In your browser on your own computer, follow this workshop at [http://github.com/jentang/GitDRI](https://github.com/jentang/GitDRI)
+In your browser on your own computer, follow this workshop at [http://github.com/jojokarlin/GitDRI](https://github.com/jojokarlin/GitDRI)
 
 In this workshop, we're going to learn how to use Git, GitHub and markdown in order to develop a workflow for collaborative, version-controlled projects in digital environments. 
 

@@ -2,13 +2,13 @@
 
 **Workshop Goal**: Create a Git repository on your computer, add files, and push this repository to your GitHub.
 
-Learn what makes Github such a powerful tool for both collaborative and individual projects in this introductory workshop. We will provide a conceptual overview of Git and Github, learn the basics of how to get started, and explore practical applications of Github for writing and computational workflows. This workshop will be applicable for a wide range of digital undertakings, from developing code, to working with datasets, to drafting public policy, and beyond.
+Learn what makes Github such a powerful tool for both collaborative and individual projects in this introductory workshop. We will share a conceptual overview of Git and Github, teach the basics of how to get started, and explore practical applications of Github for writing and computational workflows. This workshop will be applicable for a wide range of digital undertakings, from developing code, to working with datasets, to drafting public policy, and beyond.
 
 ![alt text][versionphdcomics]
 
-[versionphdcomics]: https://github.com/jentang/GitDRI/blob/master/images/versionphdcomics.jpg "how Git's version control power can save you stress"
+[versionphdcomics]: https://github.com/jojokarlin/GitDRI/blob/master/images/versionphdcomics.jpg "how Git's version control power can save you stress"
 
-This repository houses materials related to the Git Workshop offered at the GC Digital Research Institute in June 2016 taught by Jennifer Tang, and Stephen Zweibel.
+This repository houses materials related to the Git Workshop offered at the GC Digital Research Institute in January 2017, forked from the GCDRI June 2016 taught by Jennifer Tang and Stephen Zweibel.
 
 [Workshop outline](outline.md)  
 [Review of the command line](commandline.md)  
