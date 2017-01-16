@@ -32,12 +32,14 @@ Be brief but descriptive about changes in this version so that both you and your
 
 #####Congrats! You've committed your first changes to your _local_ Git repo! 
 
-It is good practice to check your status (make sure you're in the working directory) using:  
-`git status`  
+It is good practice to check your status (make sure you're in the working directory) using:
+
+`git status`
 
 Git will tell you if changes have been made but not "staged" (i.e. not added) or committed. 
 
-#####You can practice adding and committing by inserting these into your gitcheat.md file:
+##### You can practice adding and committing by inserting these into your gitcheat.md file:
+
  - git status
  - git add
  - git commit -m "[message]"
@@ -48,16 +50,14 @@ Now, how do you get these changes onto GitHub so that others can see your good w
 
 Because our local and remote repos are connected, we can `push` our local repo to its remote directory. 
 
-In the command line, type:  
-`git push origin master` (this pushes to the master branch)
+In the command line, type:
+
+`git push origin master`
 
 You'll then be prompted to enter your GitHub username and password.
 
 Refresh GitHub in the browser to see your changes. 
 
-#####Cheer wildly!
-
-After your first commit, you can just use `git push` to push commits from your local repo to your remote repo on GitHub.  
 ___
 [<<< Connect GitHub](github.md) - [Making a copy from GitHub >>>](gitpull.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)

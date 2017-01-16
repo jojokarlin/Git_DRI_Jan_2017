@@ -6,7 +6,7 @@ In this workshop, we're going to learn how to use Git, GitHub and markdown in or
 
 ####_If you have yet to, sign up for a GitHub account..._ 
 
-Registered for a GitHub account by going to [http://github.com/](http://github.com/).  
+Register for a GitHub account [here](http://github.com/](http://github.com/).
 
 Open up Sublime and record your username, email, and password in the projects folder you created on your Desktop yesterday. Save the file using an easy to remember name for now, like "github_setup" - you will need this information twice more!
 
@@ -15,7 +15,7 @@ Open up Sublime and record your username, email, and password in the projects fo
 #### [Reviewing the Command Line](commandline.md)
 We will be using the command line to use Git and GitHub.
 
-#### [What is Git, GitHub and Markdown?](concept.md)
+#### [What are Git, GitHub and Markdown?](concept.md)
 A conceptual overview of what this is about.
 
 #### [Configuring Git](gitconfig.md)
@@ -33,7 +33,7 @@ Connect your remote GitHub to the local repo you just created on your computer.
 Make local changes, track them, and push them to a remote repo on GitHub.
 
 #### [Git for Collaboration](gitpull.md)
-Make a copy of a repo, and pulling it to your computer to edit locally.
+Make a copy of a repo, and pull it to your computer to edit locally.
 
 #### [Summary](summary.md)  
 Review what we've learned in this workshop.  
