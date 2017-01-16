@@ -47,7 +47,6 @@ Git will tell you if changes have been made but not "staged" (i.e. not added) or
  - git status
  - git add
  - git commit -m "[message]"
- - git commit -am "[message]"
  
 Now, how do you get these changes onto GitHub so that others can see your good work?
 
