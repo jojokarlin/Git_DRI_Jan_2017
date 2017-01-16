@@ -30,13 +30,7 @@ Type: `git commit -m "[add a message here about the commits you're making]"`
 
 Be brief but descriptive about changes in this version so that both you and your collaborators know the differences between your versions. 
 
-#####Congrats! You've committed your first changes to your _local_ Git repo!
-
-To commit and add at the same time, use the command:  
- `git commit -a`  
-
-But keep in mind that this does not include a message out the version you just logged. To add and commit *with* a message about this version, use:  
- `git commit -am "[message about the commits]"`  
+#####Congrats! You've committed your first changes to your _local_ Git repo! 
 
 It is good practice to check your status (make sure you're in the working directory) using:  
 `git status`  
