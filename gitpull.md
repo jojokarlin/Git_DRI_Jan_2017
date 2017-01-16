@@ -5,7 +5,7 @@ A **clone** is a local copy of a repository.
 
 `git clone [URL of your GitHub repo]`
 
-This clones a remote repo to your local Git so you can begin to edit it. 
+This clones a remote repo to your computer so you can customize it to your taste. 
 
 **First, make sure you are out of GitPractice before you clone.** Let's navigate to the Desktop. 
 
@@ -13,7 +13,7 @@ Clone the [repo for this workshop](https://github.com/jojokarlin/Git_DRI_Jan_201
 
 `git clone https://github.com/jojokarlin/Git_DRI_Jan_2017`
 
-Also, see if you can use the GUI on GitHub (just the buttons on the web page) to do the same thing. There should be a little "clone or download" button near the top right of each repo. 
+Also, you can use the GUI on GitHub (buttons on the web page) to do the same thing. There should be a little "clone or download" button near the top right of each repo. 
 
 ## Pulling
 
