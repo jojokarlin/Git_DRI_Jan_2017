@@ -56,8 +56,7 @@ You'll then be prompted to enter your GitHub username and password.
 Refresh GitHub in the browser to see your changes. 
 
 #####Cheer wildly!
-
-After your first commit, you can just use `git push` to push commits from your local repo to your remote repo on GitHub.  
+ 
 ___
 [<<< Connect GitHub](github.md) - [Making a copy from GitHub >>>](gitpull.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
