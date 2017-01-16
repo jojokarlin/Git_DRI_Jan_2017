@@ -1,6 +1,6 @@
 # Add, Commit, and Push
 
-You can use Git to track the different versions of a file by first _adding_ it so that Git is aware of the file you are interested in, second _commiting_ the changes you made. This all happens on your **local computer**. When you want these changes to be visible on the remote repo you are connected to, you then _push_ it from the local to the remote.
+You can use Git to track the different versions of a file by first _adding_ it so that Git is aware of the file you are interested in, second _committing_ the changes you made. This all happens on your **local computer**. When you want these changes to be visible on the remote repo you are connected to, you then _push_ it from the local to the remote.
 
 ## Making changes
 
