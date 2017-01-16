@@ -22,7 +22,7 @@ _If you have not signed up for a GitHub account, go to [http://github.com/](http
 
 ## What is Markdown?
 
-Markdown is a markup language for formatting text. Unlike HTML, markdown is designed to be human-readable, which makes it much easier to write and edit in markdown.
+Markdown is a markup language for formatting text. Unlike HTML, markdown is designed to be human-readable, which makes it much easier to write and edit.
 
 You can think of markdown as a language read by many platforms and sites, including GitHub, to style text. Since markdown is plain text, it's also arguably more sustainable and accessible than formats like .docx. . You'll notice this file is in markdown--check out its extension!
 
