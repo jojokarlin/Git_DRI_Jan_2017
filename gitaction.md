@@ -4,7 +4,7 @@ You can use Git to track the different versions of a file by first _adding_ it s
 
 ## Making changes
 
-Return to the gitcheat.md you've made and add some notes about the commands we have learened so far to it.
+Return to the gitcheat.md you've made and add some notes about the commands we have learned so far to it.
 
 Let's start with these:  
 - git config --global user.name "[name]
