@@ -23,9 +23,7 @@ Here is a list of commands that we used in this workshop to navigate Git and Git
 
 `git commit -m "[text]"` commits the changes, with a note about this commit. 
 
-`git commit -am "[text]"` adds and commits changes at the same time
-
-`git push -u origin master` pushes commits to the master branch.
+`git push origin master` pushes commits to the master branch.
 
 `git pull [URL of remote repo]` updates your local repo with remote changes. 
 

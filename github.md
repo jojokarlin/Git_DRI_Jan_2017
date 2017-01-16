@@ -6,7 +6,7 @@ Now, let's connect the directory you made to GitHub so we can share it with othe
 
 ![alt text][addrepo]
 
-[addrepo]: https://github.com/jojokarlin/GitDRI/blob/master/images/addrepo.png "you can find the plus sign button to add a repo on the top right of github"
+[addrepo]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/addrepo.png "you can find the plus sign button to add a repo on the top right of github"
 
 - Give it the same name as your local repo. 
 - Select Public 
@@ -22,7 +22,7 @@ Now, let's connect the directory you made to GitHub so we can share it with othe
 
 ![alt text][github URL]
 
-[github URL]: https://github.com/jojokarlin/GitDRI/blob/master/images/github%20URL.png "copy the URL from your browser"
+[github URL]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/github%20URL.png "copy the URL from your browser"
 
 On your command line, type `git remote add origin [URL of your remote repo]`  
 This will link the local and remote repo.  
@@ -30,8 +30,8 @@ This will link the local and remote repo.
 To confirm, type `git remote -v` and hit enter.
 
 You should see something like  
-`Origin https://github.com/jojokarlin/GitDRI (fetch)`  
-`Origin https://github.com/jojokarlin/GitDRI (push)`
+`Origin https://github.com/jojokarlin/Git_DRI_Jan_2017 (fetch)`  
+`Origin https://github.com/jojokarlin/Git_DRI_Jan_2017 (push)`
 
 If you're getting stuck, setting up a [remote repo in GitHub](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/) is a good resource.
 

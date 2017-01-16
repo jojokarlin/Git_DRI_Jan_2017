@@ -9,9 +9,9 @@ This clones a remote repo to your local Git so you can begin to edit it.
 
 **First, make sure you are out of GitPractice before you clone.** Let's navigate to the Desktop. 
 
-Clone the [repo for this workshop](https://github.com/jojokarlin/GitDRI) so you can have a copy for yourself!
+Clone the [repo for this workshop](https://github.com/jojokarlin/Git_DRI_Jan_2017) so you can have a copy for yourself!
 
-`git clone https://github.com/jojokarlin/GitDRI`
+`git clone https://github.com/jojokarlin/Git_DRI_Jan_2017`
 
 Also, see if you can use the GUI on GitHub (just the buttons on the web page) to do the same thing. There should be a little "clone or download" button near the top right of each repo. 
 
