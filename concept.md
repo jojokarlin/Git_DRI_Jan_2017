@@ -22,9 +22,9 @@ _If you have not signed up for a GitHub account, go to [http://github.com/](http
 
 ## What is Markdown?
 
-Markdown is a way to _mark up_ text in a quick and lightweight manner to format the text, rendering more attractive files. 
+Markdown is a markup language for formatting text. Unlike HTML, markdown is designed to be human-readable, which makes it much easier to write and edit in markdown.
 
-You can think of markdown as a language read by many platforms and sites, including GitHub, to stylize text. Markdown is also thought to be more sustainable over time, since it is a plain text file. You'll notice this file is in markdown--check out its extension!
+You can think of markdown as a language read by many platforms and sites, including GitHub, to style text. Since markdown is plain text, it's also arguably more sustainable and accessible than formats like .docx. . You'll notice this file is in markdown--check out its extension!
 
 To help you format your text (use markdown to translate plain to _pizzazz_), try this cheat-sheet: [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). I used it as a reference to create this repo.  It is also appended to the bottom of the README.md file for quick access.
 

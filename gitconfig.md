@@ -2,13 +2,17 @@
 
 First, we're going to configure Git using the command line.  
 
-####Open your terminal/bash.
+#### Open your terminal
 
 Mac: press the space bar and the command key at the same time and type in "terminal."
+
 Windows: launch the command prompt from the run window. 
 
-####Type `git`.  
-If you get a nice list of things, you're good to go. If not, click on the following link and install as per the directions: [http://git-scm.com/downloads](http://git-scm.com/downloads)
+#### Check your install
+
+Type `git` at the `$` prompt.
+
+If you get a nice list of commands, you're good to go. If not, click here [here](http://git-scm.com/downloads) and install as per the directions.
 
 ## Configuring Git on your computer
 
@@ -18,14 +22,15 @@ Type the following into your command line, filling in the sections for your user
 
 `git config --global user.email johndoe@example.com`
 
-To check your set-up, use:  
+To check your set-up, use:
+
 `git config --list`
 
 You'll get something that looks like this:
 
 `user.name=Superstar Git User`  
 `user.email=gitsuperstar@gmail.com.`  
-___  
+
 For more reading on `git config`, check out this [Git-SCM](https://git-scm.com/book/en/v2/
 Getting-Started-First-Time-Git-Setup) tutorial, which was a helpful reference in the making of this resource.  
 
