@@ -34,6 +34,7 @@ Be brief but descriptive about changes in this version so that both you and your
 
 To commit and add at the same time, use the command:  
  `git commit -a`  
+
 But keep in mind that this does not include a message out the version you just logged. To add and commit *with* a message about this version, use:  
  `git commit -am "[message about the commits]"`  
 
@@ -55,7 +56,7 @@ Now, how do you get these changes onto GitHub so that others can see your good w
 Because our local and remote repos are connected, we can `push` our local repo to its remote directory. 
 
 In the command line, type:  
-`git push -u origin master` (this pushes to the master branch)
+`git push origin master` (this pushes to the master branch)
 
 You'll then be prompted to enter your GitHub username and password.
 

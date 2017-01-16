@@ -5,7 +5,7 @@
 **Git** is a version control tool. It lives on your computer (is local), and is accessed through the command line.  
 ![alt text][version_control]
 
-[version_control]: https://github.com/jentang/GitDRI/blob/master/images/version_control.png "Screenshot of different versions logged via git"  
+[version_control]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/version_control.png "Screenshot of different versions logged via git"  
 Above, you can see different versions of the GCDRI's apply webpage over time. Starting from when Keith copied everything over from the repo for our old GCDRB (GC Digital Research Bootcamp) website, to fixing broken links, making stylistic tweaks, adding the new application form, and finally closing applications. Each version is logged here.
 
 Git tracks changes when the user tells it to `git add` a file, and `git commit` logs the different versions you see here. When you `git add` and `git commit`, all these files live in the `.git` repository on your computer.
@@ -26,7 +26,7 @@ Markdown is a way to _mark up_ text in a quick and lightweight manner to format 
 
 You can think of markdown as a language read by many platforms and sites, including GitHub, to stylize text. Markdown is also thought to be more sustainable over time, since it is a plain text file. You'll notice this file is in markdown--check out its extension!
 
-To help you format your text (use markdown to translate plain to _pizzaz_), try this cheat-sheet: [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). I used it as a reference to create this repo.  It is also appended to the bottom of the README.md file for quick access.
+To help you format your text (use markdown to translate plain to _pizzazz_), try this cheat-sheet: [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). I used it as a reference to create this repo.  It is also appended to the bottom of the README.md file for quick access.
 
 ---
 
