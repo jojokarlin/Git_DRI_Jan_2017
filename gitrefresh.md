@@ -1,5 +1,3 @@
-gitday2.md
-
 # Git Day 2
 
 ##Welcome back!
