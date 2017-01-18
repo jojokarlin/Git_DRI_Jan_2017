@@ -26,7 +26,7 @@ I recommend following active projects like:
 
 ![alt text][DH_Box]
 
-[DH_Box]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/DH_Box_logo.jpg "DH laboratory in the cloud" 
+[DH_Box]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/DH Box logo.jpg "DH laboratory in the cloud" 
 
 [DH Box](https://github.com/DH-Box/dhbox) a digital humanities laboratory in the cloud. It's a web application built using Docker, which enables containerized virtual environments so you don't have to worry about dismantling your own system. For those interested in **text analysis**, @DH_Box will soon launch a corpus downloader to access texts from the British Library in conjunction with Jonathan Reeve's [Git-Lit](https://github.com/Git-Lit) project.
 
@@ -34,7 +34,7 @@ I recommend following active projects like:
 ![alt text][Manifold Scholarship]
 
 [Manifold Scholarship]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/Manifold_logo.png "Screenshot of different versions logged via git" 
-[Manifold Scholarship](https://github.com/ManifoldScholar) is partially based out of the GC Digital Scholarship Lab. Manifold is a Mellon-funded open source hybrid publishing platform led by GCDI instigator Matthew K. Gold and Doug Armato at the University of Minnesota Press in collaboration with [Cast Iron Coding](http://castironcoding.com/). 
+[Manifold Scholarship](https://github.com/ManifoldScholar) is jointly based out of the GC Digital Scholarship Lab and University of Minnesota Press. Manifold is a Mellon-funded open source hybrid publishing platform led by GCDI instigator Matthew K. Gold and Doug Armato at UMNP in collaboration with [Cast Iron Coding](http://castironcoding.com/). 
 
 ![alt text][GC Digital Fellows]
 

@@ -28,6 +28,8 @@ Remember, what you don't know can _always_ be Googled or looked up on Stack Over
 [Git 101 video](https://github.com/learn-co-students/git-version-control-101-v-000)
 
 
-___
+---
+
 [<<< Making a copy from GitHub](gitpullreq.md) - [Return to the repo](https://github.com/jojokarlin/Git_DRI_Jan_2017)  
+
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)

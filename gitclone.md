@@ -4,6 +4,10 @@
 
 A **clone** is a local copy of a repository.  
 
+![alt text][git-clone]
+
+[git-clone]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/git-clone.png "git-clone image from http://www.jonathanpberger.com/" 
+
 `git clone [URL of your GitHub repo]`
 
 This clones a remote repo to your computer so you can customize it to your taste. 
@@ -21,5 +25,6 @@ You can find all the workshops from this week linked in Patrick Smyth's [GCDRI 2
 
 ___
 
-[<<< Git add, commit, and push](gitrefresh.md) - [Collaboration >>>](gitpullreq.md)  
+[<<< Git add, commit, and push](gitrefresh.md) - [Collaboration >>>](gitpullreq.md) 
+
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
