@@ -22,6 +22,8 @@ Also, you can use the GUI (graphical user interface) on GitHub (buttons on the w
 
 You can find all the workshops from this week linked in Patrick Smyth's [GCDRI 2017 schedule](https://github.com/smythp/gcdri_schedule_2017). You can `clone` individual repositories of those workshops you might wish to revisit or that you might wish to copy to teach yourself.
 
+[dolly]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/dolly.htm "Dolly the Sheep by Gary Henderson Attribution	Noncommercial	 Share Alike " 
+
 
 ___
 

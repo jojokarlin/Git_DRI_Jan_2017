@@ -26,7 +26,7 @@ I recommend following active projects like:
 
 ![alt text][DH_Box]
 
-[DH_Box]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/DH Box logo.jpg "DH laboratory in the cloud" 
+[DH_Box]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/dhbox_logo.jpg "DH laboratory in the cloud" 
 
 [DH Box](https://github.com/DH-Box/dhbox) a digital humanities laboratory in the cloud. It's a web application built using Docker, which enables containerized virtual environments so you don't have to worry about dismantling your own system. For those interested in **text analysis**, @DH_Box will soon launch a corpus downloader to access texts from the British Library in conjunction with Jonathan Reeve's [Git-Lit](https://github.com/Git-Lit) project.
 
@@ -44,6 +44,8 @@ You can also follow the [GC Digital Fellows](https://github.com/GCDigitalFellows
 
 Linguists may be interested in digital fellow Ian Phillips's [The Linguists' Kitchen](https://github.com/itphillips/TLK).
 
+---
 
 [<<< Git add, commit, and push](gitclone.md) - [Summary >>>](summary.md)  
+
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
