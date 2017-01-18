@@ -15,7 +15,7 @@ Clone the [repo for this workshop](https://github.com/jojokarlin/Git_DRI_Jan_201
 
 Also, you can use the GUI (graphical user interface) on GitHub (buttons on the web page) to do the same thing. There should be a little "clone or download" button near the top right of each repo. 
 
-You can find all the workshops from this week in the GCDRI main repository. You can `clone` individual repositories of those workshops you might wish to revisit or that you might wish to copy to teach yourself.
+You can find all the workshops from this week linked in Patrick Smyth's [GCDRI 2017 schedule](https://github.com/smythp/gcdri_schedule_2017). You can `clone` individual repositories of those workshops you might wish to revisit or that you might wish to copy to teach yourself.
 
 
 ___
