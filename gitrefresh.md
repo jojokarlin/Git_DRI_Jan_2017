@@ -40,7 +40,7 @@ From there check the status of your files.
 
 Once you get into the working directory (e.g. GitPractice) in the command line, you can add any files you have modified.
 
-'git add [filename]' stages a file to be tracked, and prepares it to be committed.  
+`git add [filename]` stages a file to be tracked, and prepares it to be committed.  
 
 If you have been working on multiple files, `git add --all` or 'git add .' adds all files if you have many to be tracked.
 
