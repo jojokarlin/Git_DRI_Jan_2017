@@ -10,7 +10,7 @@ First let's review.
 
 You can use Git to track the different versions of a file by first _adding_ it so that Git is aware of the file you are interested in, second _committing_ the changes you made. This all happens on your **local computer**. When you want these changes to be visible on the remote repo you are connected to, you then _push_ it from the local to the remote.
 
-## Making changes
+## Make changes to your 'cheat sheet'
 
 Return to the gitcheat.md you've made and add some notes about the commands we have learned so far to it.
 
@@ -52,7 +52,7 @@ Type: `git commit -m "[add a message here about the commits you're making]"`
 Be brief but descriptive about changes in this version so that both you and your collaborators know the differences between your versions. A common way of thinking about the description is "how would future me want find this version?" Be nice to future you -- don't overcomplicate it or overthink it.
 
 #####How did you do? 
-#####Put up a **red** or **yellow** sticky note. If you are yellow and your neighbor is red, see if you can help explain it. Teaching what you did may help you understand it better.
+Put up a **red** or **yellow** sticky note. If you are yellow and your neighbor is red, see if you can help explain it. Teaching what you did may help you understand it better.
 
 ## Git Push
 
