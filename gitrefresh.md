@@ -28,6 +28,7 @@ Add the commands we covered in yesterday's session:
 - `git log`
 - `git add .`
 - `git commit -m "[clear message describing the changes you made]"`
+- `git reset` to take back staged changes
 - `git push origin master`
 
 Remember to save it! 
