@@ -29,7 +29,7 @@ Add the commands we covered in yesterday's session:
 Remember to save it! 
 
 
-## Challenge:
+## Refresher Activity:
 
 Navigate from your home directory into the folder we created yesterday.
 From there check the status of your files.
@@ -66,5 +66,5 @@ In the command line, type:
 Refresh GitHub in the browser to see your changes. 
 
 
-[<<< Add push pull](gitaction.md) - [Challenge yourself >>>](gitchallenge.md)  
+[<<< Go back to yesterday's notes](gitaction.md) - [Challenge yourself >>>](gitchallenge.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)

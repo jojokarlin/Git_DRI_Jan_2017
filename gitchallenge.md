@@ -20,5 +20,5 @@
 
 
 
-[<<< Day 2 Review ](gitrefresh.md) - [Git Clone >>>](gitchallenge.md)  
+[<<< Day 2 Review ](gitrefresh.md) - [Git Clone >>>](gitclone.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)

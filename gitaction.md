@@ -58,5 +58,5 @@ You'll then be prompted to enter your GitHub username and password.
 
 Refresh GitHub in the browser to see your changes. 
 
-[<<< Connect GitHub](github.md) - [Making a copy from GitHub >>>](gitpull.md)  
+[<<< Connect GitHub](github.md) - [Move on to Day 2 >>>](gitrefresh.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)

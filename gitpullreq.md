@@ -1,5 +1,7 @@
 #Collaborating
 
+Cloning allows you to take open source resources and modify them for your own uses. GitHub enables more than cloning. You can suggest changes by requesting that another user `pull` your changes. You can respond to **issues** reported by project managers. You can follow the progress of projects similar to yours to observe workflow and evolving solutions.
+
 ## Pulling
 
 Once you are comfortable making changes to your own files and pushing them from your local directory to your GitHub repository, you can explore cloning someone else's repository. When you wish to contribute to the repository in question, you can issue a pull request. This request asks the master branch to consider *pulling* the changes and merging them with the master version. When people are working in a modular way, these changes can run without much conflict.  
@@ -12,7 +14,15 @@ Pull requests may also be submitted in the GUI on GitHub.com.
 
 ###Issues
 
+Issues are GitHub's collaborative bug trackers. Any time something seems broken on a project, users can issue reports to keep track of spots that need attention. I recommend [GitHub's Guide to Issues](https://guides.github.com/features/issues/). 
+
 ###Following
+
+Watching other projects will help you get a handle on how people use git and GitHub to great effect. Reading commit messages, seeing issue reports, and witnessing merges gives you a stronger sense of how projects get put together. 
+
+I recommend following active projects like
+
+
 
 
 

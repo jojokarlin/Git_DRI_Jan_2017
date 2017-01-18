@@ -1,4 +1,5 @@
 #Making a copy of a GitHub repo to work on locally
+
 ## Cloning
 
 A **clone** is a local copy of a repository.  
