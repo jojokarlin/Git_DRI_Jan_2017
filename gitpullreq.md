@@ -14,7 +14,9 @@ Pull requests may also be submitted in the GUI on GitHub.com.
 
 ###Issues
 
-Issues are GitHub's collaborative bug trackers. Any time something seems broken on a project, users can issue reports to keep track of spots that need attention. I recommend [GitHub's Guide to Issues](https://guides.github.com/features/issues/). 
+Issues are GitHub's collaborative bug trackers. Any time something seems broken on a project, users can issue reports to keep track of spots that need attention. 
+
+I recommend [GitHub's Guide to Issues](https://guides.github.com/features/issues/). 
 
 ###Following
 
@@ -22,9 +24,21 @@ Watching other projects will help you get a handle on how people use git and Git
 
 I recommend following active projects like:
 
+![alt text][DH_Box]
+
+[DH_Box]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/DH_Box_logo.jpg "DH laboratory in the cloud" 
+
 [DH Box](https://github.com/DH-Box/dhbox) a digital humanities laboratory in the cloud. It's a web application built using Docker, which enables containerized virtual environments so you don't have to worry about dismantling your own system. For those interested in **text analysis**, @DH_Box will soon launch a corpus downloader to access texts from the British Library in conjunction with Jonathan Reeve's [Git-Lit](https://github.com/Git-Lit) project.
 
+
+![alt text][Manifold Scholarship]
+
+[Manifold Scholarship]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/Manifold_logo.png "Screenshot of different versions logged via git" 
 [Manifold Scholarship](https://github.com/ManifoldScholar) is partially based out of the GC Digital Scholarship Lab. Manifold is a Mellon-funded open source hybrid publishing platform led by GCDI instigator Matthew K. Gold and Doug Armato at the University of Minnesota Press in collaboration with [Cast Iron Coding](http://castironcoding.com/). 
+
+![alt text][GC Digital Fellows]
+
+[GC Digital Fellows]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/gcdri_logo.png "find all the workshops in the digital fellows repo" 
 
 You can also follow the [GC Digital Fellows](https://github.com/GCDigitalFellows) for new workshops.
 
