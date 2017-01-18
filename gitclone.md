@@ -20,5 +20,5 @@ You can find all the workshops from this week linked in Patrick Smyth's [GCDRI 2
 
 ___
 
-[<<< Git add, commit, and push](gitrefresh.md) - [Pull requests >>>](gitpullreq.md)  
+[<<< Git add, commit, and push](gitrefresh.md) - [Collaboration >>>](gitpullreq.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)

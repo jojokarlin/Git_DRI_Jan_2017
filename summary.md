@@ -20,8 +20,11 @@ Remember, what you don't know can _always_ be Googled or looked up on Stack Over
 
 #### Additional resources
 [Librarian Git Arsenal](http://bit.ly/2j0N4rS)
+
 [Github for beginners](http://bit.ly/19vDdUS)
+
 [What is Git and Why Should You Care](https://github.com/learn-co-students/git-github-and-learn-oc-000)
+
 [Git 101 video](https://github.com/learn-co-students/git-version-control-101-v-000)
 
 
