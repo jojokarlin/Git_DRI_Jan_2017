@@ -87,5 +87,5 @@ Refresh GitHub in the browser to see your changes.
 
 
 
-[<<< Add push pull](gitaction.md) - [Making a copy from GitHub >>>](gitclone.md)  
+[<<< Add push pull](gitaction.md) - [Challenge yourself >>>](gitchallenge.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
