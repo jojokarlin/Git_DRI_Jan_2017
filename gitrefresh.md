@@ -2,6 +2,10 @@
 
 ##Welcome back!
 
+The entire schedule with links to each repository can be found on the [GCDRI Website](http://gcdigitalfellows.github.io/january_2017_curriculum.html)
+
+[Etherpad link](http://pad.software-carpentry.org/gcdrijan2017)
+
 First let's review. 
 
 # Add, Commit, and Push
