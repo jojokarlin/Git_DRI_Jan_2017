@@ -7,7 +7,7 @@ gitday2.md
 First let's review. 
 
 # Add, Commit, and Push
-
+---
 You can use Git to track the different versions of a file by first _adding_ it so that Git is aware of the file you are interested in, second _committing_ the changes you made. This all happens on your **local computer**. When you want these changes to be visible on the remote repo you are connected to, you then _push_ it from the local to the remote.
 
 ## Make changes to your 'cheat sheet'
@@ -29,12 +29,12 @@ Add the commands we covered in yesterday's session:
 - `git push origin master`
 
 Remember to save it! 
-
-Challenge:
+---
+## Challenge:
 
 Navigate from your home directory into the folder we created yesterday.
 From there check the status of your files.
-
+---
 
 ## Git Add
 
