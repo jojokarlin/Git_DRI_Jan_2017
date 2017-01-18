@@ -29,11 +29,13 @@ Add the commands we covered in yesterday's session:
 - `git push origin master`
 
 Remember to save it! 
----
+
+
 ## Challenge:
 
 Navigate from your home directory into the folder we created yesterday.
 From there check the status of your files.
+
 ---
 
 ## Git Add
