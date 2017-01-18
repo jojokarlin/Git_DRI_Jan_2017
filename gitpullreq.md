@@ -1,4 +1,4 @@
-Asking to add to another repository
+#Collaborating
 
 ## Pulling
 
@@ -8,11 +8,13 @@ For more information, please check out this [pull request tutorial](http://yangs
 
 Pull requests may also be submitted in the GUI on GitHub.com.
 
-## Collaborating
+## Other ways to collaborate
 
 ###Issues
 
 ###Following
+
+
 
 ###Forking
 
