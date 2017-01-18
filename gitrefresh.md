@@ -2,7 +2,7 @@
 
 ##Welcome back!
 
-The entire schedule with links to each repository can be found on the [GCDRI Website](http://gcdigitalfellows.github.io/january_2017_curriculum.html)
+The entire schedule with links to each repository can be found on the [GCDRI Website](http://gcdigitalfellows.github.io/january_2017_curriculum.html) gcdigitalfellows.github.io
 
 [Etherpad link](http://pad.software-carpentry.org/gcdrijan2017)
 
