@@ -22,11 +22,13 @@ Watching other projects will help you get a handle on how people use git and Git
 
 I recommend following active projects like
 
+[DH Box](https://github.com/DH-Box/dhbox) a digital humanities laboratory in the cloud. It's a web application built using Docker, which enables containerized virtual environments so you don't have to worry about dismantling your own system. For those interested in **text analysis**, @DH_Box will soon launch a corpus downloader to access texts from the British Library in conjunction with Jonathan Reeve's [Git-Lit](https://github.com/Git-Lit) project.
 
+[Manifold Scholarship](https://github.com/ManifoldScholar) is partially based out of the GC Digital Scholarship Lab. Manifold is a Mellon-funded open source hybrid publishing platform led by GCDI instigator Matthew K. Gold and Doug Armato at the University of Minnesota Press in collaboration with [Cast Iron Coding](http://castironcoding.com/). 
 
+You can also follow the [GC Digital Fellows](https://github.com/GCDigitalFellows) for new workshops.
 
-
-###Forking
+Linguists may be interested in digital fellow Ian Phillips's [The Linguists' Kitchen](https://github.com/itphillips/TLK).
 
 
 [<<< Git add, commit, and push](gitclone.md) - [Summary >>>](summary.md)  
