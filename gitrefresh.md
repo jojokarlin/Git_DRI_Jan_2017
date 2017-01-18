@@ -16,17 +16,17 @@ Return to the gitcheat.md you've made and add some notes about the commands we h
 
 Add the commands we covered in yesterday's session:
 
-- git config --global user.name "[name]
-- git config --global user.email "[email address]
-- git config --list
-- git init
-- git remote add origin [URL of your remote repo]
-- git remote -v
-- git status
-- git log
-- git add .
-- git commit -m "[clear message describing the changes you made]"
-- git push origin master
+- `git config --global user.name "[name]`
+- `git config --global user.email "[email address]`
+- `git config --list`
+- `git init`
+- `git remote add origin [URL of your remote repo]`
+- `git remote -v`
+- `git status`
+- `git log`
+- `git add .`
+- `git commit -m "[clear message describing the changes you made]"`
+- `git push origin master`
 
 Remember to save it! 
 
@@ -42,9 +42,9 @@ Once you get into the working directory (e.g. GitPractice) in the command line, 
 
 `git add [filename]` stages a file to be tracked, and prepares it to be committed.  
 
-If you have been working on multiple files, `git add --all` or 'git add .' adds all files if you have many to be tracked.
+If you have been working on multiple files, `git add --all` or `git add .` adds all files if you have many to be tracked.
 
-Remember *git status* will show you what files have been staged.
+Remember `git status` will show you what files have been staged.
 
 ## Git Commit
 Type: `git commit -m "[add a message here about the commits you're making]"`
