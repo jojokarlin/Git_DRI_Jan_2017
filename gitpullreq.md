@@ -20,7 +20,7 @@ Issues are GitHub's collaborative bug trackers. Any time something seems broken 
 
 Watching other projects will help you get a handle on how people use git and GitHub to great effect. Reading commit messages, seeing issue reports, and witnessing merges gives you a stronger sense of how projects get put together. 
 
-I recommend following active projects like
+I recommend following active projects like:
 
 [DH Box](https://github.com/DH-Box/dhbox) a digital humanities laboratory in the cloud. It's a web application built using Docker, which enables containerized virtual environments so you don't have to worry about dismantling your own system. For those interested in **text analysis**, @DH_Box will soon launch a corpus downloader to access texts from the British Library in conjunction with Jonathan Reeve's [Git-Lit](https://github.com/Git-Lit) project.
 
