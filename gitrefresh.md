@@ -1,6 +1,6 @@
 # Git Day 2
 
-##Welcome back!
+## Welcome back!
 
 The entire schedule with links to each repository can be found on the [GCDRI Website](http://gcdigitalfellows.github.io/january_2017_curriculum.html) gcdigitalfellows.github.io
 
@@ -56,7 +56,7 @@ Type: `git commit -m "[add a message here about the commits you're making]"`
 
 Be brief but descriptive about changes in this version so that both you and your collaborators know the differences between your versions. A common way of thinking about the description is "how would future me want find this version?" Be nice to future you -- don't overcomplicate it or overthink it.
 
-#####How did you do? 
+##### How did you do? 
 Put up a **red** or **yellow** sticky note. If you are yellow and your neighbor is red, see if you can help explain it. Teaching what you did may help you understand it better.
 
 ## Git Push
