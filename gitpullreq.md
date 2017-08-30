@@ -12,13 +12,13 @@ Pull requests may also be submitted in the GUI on GitHub.com.
 
 ## Other ways to collaborate
 
-###Issues
+### Issues
 
 Issues are GitHub's collaborative bug trackers. Any time something seems broken on a project, users can issue reports to keep track of spots that need attention. 
 
 I recommend [GitHub's Guide to Issues](https://guides.github.com/features/issues/). 
 
-###Following
+### Following
 
 Watching other projects will help you get a handle on how people use git and GitHub to great effect. Reading commit messages, seeing issue reports, and witnessing merges gives you a stronger sense of how projects get put together. 
 
