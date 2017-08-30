@@ -1,4 +1,4 @@
-#Git, GitHub, and Markdown: A Brief Conceptual Overview
+# Git, GitHub, and Markdown: A Brief Conceptual Overview
 
 ## What is Git? 
 
