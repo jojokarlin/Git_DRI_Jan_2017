@@ -1,4 +1,4 @@
-#Making a copy of a GitHub repo to work on locally
+# Making a copy of a GitHub repo to work on locally
 
 ## Cloning
 
