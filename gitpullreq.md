@@ -1,4 +1,4 @@
-#Collaborating
+# Collaborating
 
 Cloning allows you to take open source resources and modify them for your own uses. GitHub enables more than cloning. You can suggest changes by requesting that another user `pull` your changes. You can respond to **issues** reported by project managers. You can follow the progress of projects similar to yours to observe workflow and evolving solutions.
 
