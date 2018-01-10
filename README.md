@@ -8,7 +8,7 @@ Learn what makes Github such a powerful tool for both collaborative and individu
 
 [versionphdcomics]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/versionphdcomics.jpg "how Git's version control power can save you stress"
 
-This repository houses materials related to the Git Workshop offered at the GC Digital Research Institute in January 2017, forked from the GCDRI June 2016 git workshop taught by Jennifer Tang and Stephen Zweibel.
+This repository houses materials related to the Git Workshop offered at the GC Digital Research Institute in January 2018, forked from the GCDRI January 2017 workshop led by Jojo Karlin, which was forked from the GCDRI June 2016 git workshop taught by Jennifer Tang and Stephen Zweibel.
 
 [Workshop outline](outline.md)  
 [Review of the command line](commandline.md)  
@@ -19,7 +19,7 @@ This repository houses materials related to the Git Workshop offered at the GC D
 [Git add, commit, and push](gitaction.md)  
 [Git for collaboration: cloning and pulling](gitpull.md)  
 
-_MASSIVE_ Thanks to **[Mary Catherine McKinniburgh](https://github.com/mckinniburgh/gitWorkshop)**, who developed this repository. Thanks, too, to [Patrick Smyth](https://github.com/smythp) and [Hannah Aizenman](story645) who have been indespensible sources of knowledge and support.  
+_MASSIVE_ Thanks to [Mary Catherine McKinniburgh](https://github.com/mckinniburgh/gitWorkshop), Jojo Karlin(jojokarlin), [Jen Tang](jentang), and [Patrick Smyth](https://github.com/smythp) who have developed earlier iterations of this workshop and offered support.
 
 ---  
 If you ever get lost, at the bottom of each file here, you will find links to these:
