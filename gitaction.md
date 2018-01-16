@@ -1,3 +1,5 @@
+[<<< Previous](github.md) | [Next >>>](gitrefresh.md)
+
 # Add, Commit, and Push
 
 You can use Git to track the different versions of a file by first _adding_ it so that Git is aware of the file you are interested in, second _committing_ the changes you made. This all happens on your **local computer**. When you want these changes to be visible on the remote repo you are connected to, you then _push_ it from the local to the remote.
@@ -58,5 +60,8 @@ You'll then be prompted to enter your GitHub username and password.
 
 Refresh GitHub in the browser to see your changes. 
 
-[<<< Connect GitHub](github.md) - [Move on to Day 2 >>>](gitrefresh.md)  
+---
+
+[<<< Previous](github.md) | [Next >>>](gitrefresh.md)
+
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
