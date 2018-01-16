@@ -1,3 +1,5 @@
+[<<< Previous](gitconfig.md) | [Next >>>](github.md)
+
 # Initialize Git
 
 Using `cd`, navigate inside the folder 'GitPractice.' 
@@ -30,5 +32,6 @@ You'll notice that I added a # before my title, and two asterisks around Name an
 
 CTRL + S saves the file, SHIFT + CTRL + W closes the Sublime window.
 
-[<<< Configure Git](gitconfig.md) - [Connect to GitHub >>>](github.md)  
+[<<< Previous](gitconfig.md) | [Next >>>](github.md)
+
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
