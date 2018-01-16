@@ -1,3 +1,5 @@
+[<<< Previous](concept.md) | [Next >>>](gitinit.md)
+
 # Configure Git
 
 First, we're going to configure Git using the command line.  
@@ -33,6 +35,7 @@ You'll get something that looks like this:
 
 For more reading on `git config`, check out this [Git-SCM](https://git-scm.com/book/en/v2/
 Getting-Started-First-Time-Git-Setup) tutorial, which was a helpful reference in the making of this resource.  
+ 
+[<<< Previous](concept.md) | [Next >>>](gitinit.md)
 
-[<<<Conceptual overview](concept.md) - [Initialize Git>>>](gitinit.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
