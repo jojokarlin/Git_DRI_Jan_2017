@@ -1,3 +1,6 @@
+
+[<<< Previous](gitrefresh.md) | [Next >>>](gitclone.md)
+
 # Challenge yourself
 
 ## Challenge 
@@ -18,7 +21,8 @@
 - connect your local directory to your GitHub account
 - put up your sticky note when you have made an initial commit to your GitHub 
 
+---
 
+[<<< Previous](gitrefresh.md) | [Next >>>](gitclone.md)
 
-[<<< Day 2 Review ](gitrefresh.md) - [Git Clone >>>](gitclone.md)  
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
