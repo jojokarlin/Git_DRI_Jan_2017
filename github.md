@@ -1,3 +1,6 @@
+
+[<<< Previous](gitinit.md) | [Next >>>](gitaction.md)
+
 # Connect to Your Remote Repo
 
 Now, let's connect the directory you made to GitHub so we can share it with others.
@@ -36,5 +39,7 @@ You should see something like
 If you're getting stuck, setting up a [remote repo in GitHub](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/) is a good resource.
 
 ---
-[<<< Initialize Git](gitinit.md) - [Git add, commit, and push >>>](gitaction.md)  
+
+[<<< Previous](gitinit.md) | [Next >>>](gitaction.md)
+
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
