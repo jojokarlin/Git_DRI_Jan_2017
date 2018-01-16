@@ -2,9 +2,8 @@
 
 ## Welcome back!
 
-The entire schedule with links to each repository can be found on the [GCDRI Website](http://gcdigitalfellows.github.io/january_2017_curriculum.html) gcdigitalfellows.github.io
+The entire schedule with links to each repository can be found on the [GCDRI Website](https://gcdigitalfellows.github.io/schedule.html) gcdigitalfellows.github.io
 
-[Etherpad link](http://pad.software-carpentry.org/gcdrijan2017)
 
 First let's review. 
 
@@ -70,6 +69,8 @@ In the command line, type:
 
 Refresh GitHub in the browser to see your changes. 
 
+---
 
-[<<< Go back to yesterday's notes](gitaction.md) - [Challenge yourself >>>](gitchallenge.md)  
+[<<< Previous](gitaction.md) | [Next >>>](gitchallenge.md)
+
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
