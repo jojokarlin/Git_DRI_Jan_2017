@@ -1,3 +1,5 @@
+[<<< Previous](commandline.md) | [Next >>>](gitconfig.md)  
+
 # Git, GitHub, and Markdown: A Brief Conceptual Overview
 
 ## What is Git? 
@@ -32,5 +34,6 @@ To help you format your text (use markdown to translate plain to _pizzazz_), try
 
 For more: [Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text Using Pandoc and Markdown."](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)  
 
-[<<< Command line](commandline.md) - [Configure Git >>>](gitconfig.md)  
+[<<< Previous](commandline.md) | [Next >>>](gitconfig.md)  
+
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md) 
