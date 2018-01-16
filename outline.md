@@ -1,3 +1,5 @@
+<<< Previous  | [Next >>>](commandline.md) 
+
 # Using Git and GitHub to Manage Collaborative Workflow!
 
 In your browser on your own computer, follow this workshop at [http://github.com/pswee001/Git_DRI_Jan_2018/](http://github.com/pswee001/Git_DRI_Jan_2018/)
@@ -39,5 +41,6 @@ Make a copy of a repo, and pull it to your computer to edit locally.
 Review what we've learned in this workshop.  
 
 ---
-[Command Line >>>](commandline.md)  
+<<< Previous  | [Next >>>](commandline.md) 
+
 _I have linked the [glossary](glossary.md) and [helpful commands](helpfulcommands.md) at the bottom of each page._
