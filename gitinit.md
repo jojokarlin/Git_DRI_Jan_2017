@@ -16,11 +16,11 @@ We are going to make our own cheatsheet as a plain text markdown file.
 
 Make sure you've navigated inside your GitPractice folder. Use `cd` or `cd ..` as needed.
 
-Type `touch MySyllabus.md` The '.md' extension means "markdown." You can use `touch` to create other types of files too: `touch [name].[extension]`.
+Type `touch mysyllabus.md` The '.md' extension means "markdown." You can use `touch` to create other types of files too: `touch [name].[extension]`.
 
 ### Start your file.
 
-Open your MySyllabus.md in your text editor. We have been using Sublime.
+Open your mysyllabus.md in your text editor. We have been using Sublime.
 
 Give your document a title, insert your name and today's date. 
 
