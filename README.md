@@ -26,3 +26,7 @@ If you ever get lost, at the bottom of each file here, you will find links to th
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
 
 [Direct link to Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+---
+
+[<<< Previous] | [Next >>>](outline.md)
