@@ -6,22 +6,14 @@ You can use Git to track the different versions of a file by first _adding_ it s
 
 ## Making changes
 
-Return to the gitcheat.md you've made and add some notes about the commands we have learned so far to it.
-
-Let's start with these:  
-- git config --global user.name "[name]
-- git config --global user.email "[email address]
-- git config --list
-- git init
-- git remote add origin [URL of your remote repo]
-- git remote -v
+Return to the mysyllabus.md you've made and add some readings or assignments.
 
 Remember to save it!
 
 ## Git Add
 
 In your working directory (GitPractice) in the command line, type:  
-`git add gitcheat.md`
+`git add mysyllabus.md`
 
 This stages the file to be tracked, and prepares it to be committed.  
 
