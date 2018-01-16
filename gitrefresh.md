@@ -1,3 +1,5 @@
+[<<< Previous](gitaction.md) | [Next >>>](gitchallenge.md)
+
 # Git Day 2
 
 ## Welcome back!
