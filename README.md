@@ -29,4 +29,4 @@ If you ever get lost, at the bottom of each file here, you will find links to th
 
 ---
 
-[<<< Previous] | [Next >>>](outline.md)
+<<< Previous | [Next >>>](outline.md)
