@@ -1,3 +1,5 @@
+[<<< Previous](outline.md)  | [Next >>>](concept.md)  
+
 # Command Line
 
 In contrast to a GUI, or graphical user interface, the command line lets us tell our computer exactly what we want it to do using successive lines of text. 
@@ -35,5 +37,6 @@ Type `mkdir GitPractice` and hit enter.
 Click around to go check out your desktop and see your new folder. 
 
 ___
-[<<< Outline](outline.md) - [Conceptual Overview >>>](concept.md)  
+[<<< Previous](outline.md)  | [Next >>>](concept.md)
+
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
