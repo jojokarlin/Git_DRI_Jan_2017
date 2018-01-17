@@ -6,6 +6,8 @@
 
 A **clone** is a local copy of a repository.  
 
+(A **fork** is a copy of a repository, on GitHub.) 
+
 ![alt text][git-clone]
 
 [git-clone]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/git-clone.png "git-clone image from http://www.jonathanpberger.com/" 
@@ -26,6 +28,19 @@ You can find many of the workshops from this week linked in the Digital Fellows'
 
 [dolly]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/dolly.htm "Dolly the Sheep by Gary Henderson Attribution	Noncommercial	 Share Alike " 
 
+## Challenge 
+
+- `git push` your updates to the syllabus so they show up on your Github.com account:
+
+- Create a new repository at github.com. (this is your repository)
+
+- Give it the same name as as the repository you cloned.
+*Don't initialize it with a README, .gitignore, or license.*
+
+- `git remote add origin https://github.com/your-account/your-repository.git`
+Push the local repository to your repository on github.
+
+- `git push origin master`
 
 
 ___
