@@ -37,7 +37,7 @@ You can find many of the workshops from this week linked in the Digital Fellows'
 - Give it the same name as as the repository you cloned.
 *Don't initialize it with a README, .gitignore, or license.*
 
-- `git remote add origin https://github.com/your-account/your-repository.git`
+- `git remote set-url origin https://github.com/your-account/your-repository.git`
 Push the local repository to your repository on github.
 
 - `git push origin master`
