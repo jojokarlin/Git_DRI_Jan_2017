@@ -13,11 +13,7 @@ First let's review.
 ---
 You can use Git to track the different versions of a file by first _adding_ it so that Git is aware of the file you are interested in, second _committing_ the changes you made. This all happens on your **local computer**. When you want these changes to be visible on the remote repo you are connected to, you then _push_ it from the local to the remote.
 
-## Make changes to your 'cheat sheet'
-
-Return to the gitcheat.md you've made and add some notes about the commands we have learned so far to it.
-
-Add the commands we covered in yesterday's session:
+The commands we covered in yesterday's session:
 
 - `git config --global user.name "[name]"`
 - `git config --global user.email [email address]`
@@ -32,13 +28,20 @@ Add the commands we covered in yesterday's session:
 - `git reset` to take back staged changes
 - `git push origin master`
 
-Remember to save it! 
+Remember to save your files! 
 
 
 ## Refresher Activity:
 
 Navigate from your home directory into the folder we created yesterday.
 From there check the status of your files.
+
+**How do we check the status of git? How do we know if Git is initialized in that folder?**
+
+
+## Refresher Activity part 2: Make changes to your 'syllabus'
+
+Return to the mysyllabus.md you've made and add another reading or assignment so you can practice _adding_, _committing_ and _pushing_ it once more. 
 
 ---
 
