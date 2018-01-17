@@ -34,7 +34,7 @@ Connect your remote GitHub to the local repo you just created on your computer.
 #### [Git Add, Git Commit, Git Push](gitaction.md)
 Make local changes, track them, and push them to a remote repo on GitHub.
 
-#### [Git for Collaboration](gitpull.md)
+#### [Git for Collaboration](gitclone.md)
 Make a copy of a repo, and pull it to your computer to edit locally.
 
 #### [Summary](summary.md)  
