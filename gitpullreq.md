@@ -1,3 +1,5 @@
+[<<< Previous](gitclone.md) | [Next >>>](summary.md)
+
 # Collaborating
 
 Cloning allows you to take open source resources and modify them for your own uses. GitHub enables more than cloning. You can suggest changes by requesting that another user `pull` your changes. You can respond to **issues** reported by project managers. You can follow the progress of projects similar to yours to observe workflow and evolving solutions.
@@ -46,6 +48,6 @@ Linguists may be interested in digital fellow Ian Phillips's [The Linguists' Kit
 
 ---
 
-[<<< Git add, commit, and push](gitclone.md) - [Summary >>>](summary.md)  
+[<<< Previous](gitclone.md) | [Next >>>](summary.md)
 
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
