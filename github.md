@@ -1,22 +1,18 @@
 
 [<<< Previous](gitinit.md) | [Next >>>](gitaction.md)
 
-# Connect to Your Remote Repo
+# Connecting to GitHub
 
-Now, let's connect the directory you made to GitHub so we can share it with others.
+Now, let's connect the directory you made to GitHub. GitHub is a service that allows us to host files, collaborate, and find the work of others. Once our syllabus is on GitHub, it will be publicly visible.
 
-- Go to **GitHub** in your browser and click the plus sign in the upper right hand corner to create a new remote repo. 
+Go to GitHub in your browser and click the plus sign in the upper right hand corner to create a new remote repo. 
 
-![alt text][addrepo]
-
-[addrepo]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/addrepo.png "you can find the plus sign button to add a repo on the top right of github"
+![You can find the plus sign button to add a repo on the top right of github](images/addrepo.png)
 
 - Give it the same name as your local repo. 
 - Select Public 
 - *Do not* select "Initialize this repository with a README" since you will be importing an existing directory.
 - Click Create repository
-
-![alt text][createrepo]
 
 [createrepo]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/createrepo.png "select 'new repository' from your dropdown menu"
 [createrepo2]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/createrepo2.png "what it should look like when you are creating your repo"

@@ -1,24 +1,30 @@
 [<<< Previous](gitconfig.md) | [Next >>>](github.md)
 
-# Initialize Git
+# Initialize a Repository
 
-Using `cd`, navigate inside the folder 'GitPractice.' 
+Using `cd`, navigate to the `git` folder inside `projects`. From your home direcotry, type:
 
-Type `git init` and hit enter.
+	cd Desktop/projects/git
 
-This initializes the Git repository so it knows to pay attention to this folder. 
+Now we're going to initialize our repository, which means telling Git to pay attention to it:
 
-You should see something like `Initialized empty Git repository in /Users/gcdri/Desktop/GitPractice/.git/`
+	git init
 
-### Create a file in your folder.  
+You should see output like this:
 
-We are going to make our own cheatsheet as a plain text markdown file.
+	Initialized empty Git repository in /home/patrick/projects/lalala/.git/
 
-Make sure you've navigated inside your GitPractice folder. Use `cd` or `cd ..` as needed.
+### Creating a Syllabus in Markdown
 
-Type `touch mysyllabus.md` The '.md' extension means "markdown." You can use `touch` to create other types of files too: `touch [name].[extension]`.
+We are going to make our own syllabus as a plain text markdown file.
 
-### Start your file.
+Let's use our text editor, nano, to create and edit a syllabus file in the folder. Type:
+
+	nano syllabus.md
+
+The `.md` extension means "markdown." XXX<symty edit> XXX
+
+ ### Start your file.
 
 Open your mysyllabus.md in your text editor. We have been using Sublime.
 
