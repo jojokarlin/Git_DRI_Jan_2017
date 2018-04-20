@@ -13,10 +13,10 @@ Now we're going to initialize our repository, which means telling Git to pay att
 You should see output like this:
 
 	Initialized empty Git repository in /home/patrick/projects/lalala/.git/
+	
+Now Git is tracking our directory. But before that's useful, we'll have to create a text file for Git to track. For this session, the file we'll track will be a course syllabus—we'll create that next.
 
 ### Creating a Syllabus in Markdown
-
-We are going to make our own syllabus as a plain text markdown file.
 
 Let's use our text editor, nano, to create and edit a syllabus file in the folder. Type:
 
@@ -73,7 +73,7 @@ When you're ready to save your syllabus in Nano, use these steps:
 2. You will be asked if you want to save. Press `y` for "yes."
 3. You will see a path to your file, which should end with `syllabus.md`. Hit `Enter` and your file will be saved.
 
-That's `control-x`, `y`, then `Enter`. Once your syllabus has been saved, we're ready to start tracking it with Git, which we'll do in the ntext section.
+That's `control-x`, `y`, then `Enter`. Once your syllabus has been saved, we're ready to start tracking it with Git, which we'll do in the next section. If you're curious, you can also see the raw markdown for the page that you're reading [here](https://github.com/DHRI-Curriculum/git/blob/master/markdown.md).
 
 
 [<<< Previous](gitconfig.md) | [Next >>>](github.md)
