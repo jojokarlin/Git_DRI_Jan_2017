@@ -14,7 +14,7 @@ Based on sessions by Jojo Karlin, Jennifer Tang, Stephen Zweibel, and Mary Cathe
 [What You Can Do with Git and GitHub](examples.md)  
 [Review of the Command Line](commandline.md)  
 [Setting Up Git]()  
-[Initialize Git](gitinit.md)  
+[Creating a Syllabus with Markdown](gitinit.md)  
 [Connecting to GitHub](github.md)  
 [Git add, commit, and push](gitaction.md)  
 [Git for collaboration: cloning and pulling](gitpull.md)  
