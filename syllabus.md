@@ -10,10 +10,10 @@ Office: 5489
 
 ### Week One
 
-- Norriz, K. *Bajoran resistance to the Cardassian occupation.*
+- Nerys, K. (2369). *Sociological perspectives on Bajoran resistance to the Cardassian occupation.*
 
 ### Week Two
 
-- Odo M first-person account of bureacratic procedures and security
-- Dax, J. "Etic/Enic perspectives on Klingon mating rituals."
-- O'Brien, M. "Guide to the eradication of pests, including voles."
+- Odo, M. (2376). *An autoethnography of bureacratic procedures and security on DS9.*
+- Dax, J. (2373). *Etic & Emic perspectives on Klingon social rituals.*
+- O'Brien, M. (2370). *Guide to the eradication of deep space pests, including voles.*
