@@ -4,8 +4,6 @@ Git is version control software used to track the state of files associated with
 
 In this session, we'll Learn what makes Git such a powerful tool for both collaborative and individual projects. We will share a conceptual overview of Git and GitHub, teach the basics of how to get started, and explore practical applications of GitHub for writing and coding. This workshop will be applicable for a wide range of digital undertakings, from developing code, to working with datasets, to drafting public policy, and beyond.
 
-Here, you will create a Git repository on your computer, add files, and push this repository to your GitHub account.
-
 Session Leader: Patrick Sweeney  
 Based on sessions by Jojo Karlin, Jennifer Tang, Stephen Zweibel, and Mary Catherine McKinniburgh  
 
