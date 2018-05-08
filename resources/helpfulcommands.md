@@ -1,4 +1,4 @@
-##Helpful Commands
+## Helpful Commands
 Here is a list of commands that we used in this workshop to navigate Git and GitHub in your command line: 
 
 `cd [name of directory or folder]` will navigate you into the directory you identified.
