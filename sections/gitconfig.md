@@ -1,4 +1,4 @@
-[<<< Previous](concept.md) | [Next >>>](gitinit.md)
+[<<< Previous](commandline.md) | [Next >>>](markdown.md)
 
 # Configure Git
 
@@ -33,9 +33,4 @@ You'll get something that looks like this:
 `user.name=Superstar Git User`  
 `user.email=gitsuperstar@gmail.com.`  
 
-For more reading on `git config`, check out this [Git-SCM](https://git-scm.com/book/en/v2/
-Getting-Started-First-Time-Git-Setup) tutorial, which was a helpful reference in the making of this resource.  
- 
-[<<< Previous](concept.md) | [Next >>>](gitinit.md)
-
-[Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
+[<<< Previous](commandline.md) | [Next >>>](markdown.md)
