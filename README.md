@@ -18,8 +18,8 @@ Based on sessions by Jojo Karlin, Jennifer Tang, Stephen Zweibel, and Mary Cathe
 [Setting Up Git](sections/gitconfig.md)  
 [Creating a Syllabus with Markdown](sections/markdown.md)  
 [Connecting to GitHub](sections/github.md)  
-[Git add, commit, and push](sections/gitaction.md)  
-[Git for collaboration: cloning and pulling](sections/gitpull.md)  
+[Git Add, Commit, and Push](sections/gitaction.md)  
+[Git for Collaboration: Cloning and Pulling](sections/gitpull.md)  
 [Summary](sections/summary.md)  
 [Resources](sections/resources.md)  
 
