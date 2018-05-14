@@ -1,5 +1,5 @@
 
-[<<< Previous](gitinit.md) | [Next >>>](gitaction.md)
+[<<< Previous](markdown.md) | [Next >>>](gitaction.md)
 
 # Connecting to GitHub
 
@@ -36,6 +36,5 @@ If you're getting stuck, setting up a [remote repo in GitHub](https://help.githu
 
 ---
 
-[<<< Previous](gitinit.md) | [Next >>>](gitaction.md)
 
-[Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
+[<<< Previous](markdown.md) | [Next >>>](gitaction.md)
