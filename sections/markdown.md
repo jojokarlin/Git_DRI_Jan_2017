@@ -78,4 +78,3 @@ That's `control-x`, `y`, then `Enter`. Once your syllabus has been saved, we're 
 
 [<<< Previous](gitconfig.md) | [Next >>>](github.md)
 
-[Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
