@@ -11,13 +11,16 @@ By the end of this session, you will:
 
 Session Leader: Patrick Sweeney  
 Based on sessions by Jojo Karlin, Jennifer Tang, Stephen Zweibel, and Mary Catherine McKinniburgh  
+ 
+[What are Git, GitHub and Markdown?](sections/concept.md)  
+[What You Can Do with Git and GitHub](sections/examples.md)  
+[Review of the Command Line](sections/commandline.md)  
+[Setting Up Git](sections/gitconfig.md)  
+[Creating a Syllabus with Markdown](sections/markdown.md)  
+[Connecting to GitHub](sections/github.md)  
+[Git add, commit, and push](sections/gitaction.md)  
+[Git for collaboration: cloning and pulling](sections/gitpull.md)  
+[Summary](sections/summary.md)  
+[Resources](sections/resources.md)  
 
-[Workshop outline](outline.md)  
-[What are Git, GitHub and Markdown?](concept.md)  
-[What You Can Do with Git and GitHub](examples.md)  
-[Review of the Command Line](commandline.md)  
-[Setting Up Git]()  
-[Creating a Syllabus with Markdown](markdown.md)  
-[Connecting to GitHub](github.md)  
-[Git add, commit, and push](gitaction.md)  
-[Git for collaboration: cloning and pulling](gitpull.md)  
+[Next >>>](sections/concept.md)   
