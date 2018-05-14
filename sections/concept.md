@@ -1,4 +1,4 @@
-[<<< Previous](commandline.md) | [Next >>>](gitconfig.md)  
+[<<< Previous](../README.md) | [Next >>>](examples.md)  
 
 # What are Git, GitHub and Markdown?
 
@@ -21,6 +21,4 @@ Markdown is a markup language for formatting text. Unlike HTML, markdown is desi
 
 You can think of markdown as a language read by many platforms and sites, including GitHub, to style text. Since markdown is plain text, it's also arguably more sustainable and accessible than formats like .docx. . You'll notice this file is in markdown--check out its extension!
 
-[<<< Previous](commandline.md) | [Next >>>](gitconfig.md)  
-
-[Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md) 
+[<<< Previous](../README.md) | [Next >>>](examples.md)  
