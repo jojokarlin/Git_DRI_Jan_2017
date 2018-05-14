@@ -1,4 +1,4 @@
-[<<< Previous](outline.md)  | [Next >>>](concept.md)  
+[<<< Previous](examples.md) | [Next >>>](gitconfig.md)  
 
 # Review of the command line
 
@@ -42,4 +42,4 @@ Use your GUI to confirm that you have a `git` folder inside your `projects` fold
 
 	/home/<username>/Desktop/projects/git
 
-[<<< Previous](outline.md)  | [Next >>>](concept.md)
+[<<< Previous](examples.md) | [Next >>>](gitconfig.md)  
