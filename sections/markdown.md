@@ -63,7 +63,7 @@ Paragraphs of text are denoted by putting a blank line between them:
 
 Try using these five elements—headings, emphasis, lists, links, and paragraphs—to create a syllabus. Have a main heading that gives the course title (one `#`), then subheadings for, at least, course info and readings. Use emphasis (`*`) for book titles and try to get a list in there somewhere.
 
-You can look at an example syllabus in raw text form [here](https://raw.githubusercontent.com/DHRI-Curriculum/git/resources/syllabus.md). When it's rendered by GitHub, it looks like [this](resources/syllabus.md). This is what your markdown might look like in the nano editor:
+You can look at an example syllabus in raw text form [here](https://raw.githubusercontent.com/DHRI-Curriculum/git/resources/dhri-syllabus.md). When it's rendered by GitHub, it looks like [this](resources/dhri-syllabus.md). This is what your markdown might look like in the nano editor:
 
 ![A Star Trek syllabus in Nano](nano-syllabus.png)
 
