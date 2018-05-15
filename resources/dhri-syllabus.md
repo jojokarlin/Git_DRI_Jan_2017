@@ -2,7 +2,7 @@
 
 ## Course Information
 
-Professor: Patrick Sweeney  
+Instructor: Patrick Sweeney  
 Time: Tuesdays and Thursdays, 1:00-3:00  
 Office: 5489  
 
