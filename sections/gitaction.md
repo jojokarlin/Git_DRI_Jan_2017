@@ -16,11 +16,14 @@ In your working directory (GitPractice) in the command line, type:
 `git add mysyllabus.md`
 
 This stages the file to be tracked, and prepares it to be committed.  
+(If it worked, the command line will look like nothing in particular happened) 
 
 ## Git Commit
 Type: `git commit -m "[add a message here about the commits you're making]"`
 
 Be brief but descriptive about changes in this version so that both you and your collaborators know the differences between your versions. 
+
+Now, You have just committed everything you have saved on mysyllabus.md to Git on your local computer.
 
 ##### Congrats! You've committed your first changes to your _local_ Git repo! 
 
@@ -30,7 +33,6 @@ It is good practice to check your status (make sure you're in the working direct
 
 Git will tell you if changes have been made but not "staged" (i.e. not added) or committed. 
 
- 
 Now, how do you get these changes onto GitHub so that others can see your good work?
 
 ## Git Push
@@ -44,6 +46,9 @@ In the command line, type:
 You'll then be prompted to enter your GitHub username and password.
 
 Refresh GitHub in the browser to see your changes. 
+
+## Practice: Add, Commit, Push
+To solidify the process, make several more changes to the syllabus.md file, each time adding, committing, and pushing.  
 
 
 [<<< Previous](github.md) | [Next >>>](gitpull.md)
