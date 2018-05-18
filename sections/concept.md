@@ -13,6 +13,6 @@
 
 Markdown is a markup language for formatting text. Unlike HTML, markdown is designed to be human-readable, which makes it much easier to write and edit.
 
-You can think of markdown as a language read by many platforms and sites, including GitHub, to style text. Since markdown is plain text, it's also arguably more sustainable and accessible than formats like .docx. You'll notice this file is written in markdown—[here]() is what it looks like in its raw, unrendered form.
+You can think of markdown as a language read by many platforms and sites, including GitHub, to style text. Since markdown is plain text, it's also arguably more sustainable and accessible than formats like .docx. You'll notice this file is written in markdown—[here](https://raw.githubusercontent.com/DHRI-Curriculum/git/master/sections/concept.md) is what it looks like in its raw, unrendered form.
 
 [<<< Previous](../README.md) | [Next >>>](examples.md)  

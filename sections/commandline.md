@@ -1,44 +1,67 @@
 [<<< Previous](examples.md) | [Next >>>](gitconfig.md)  
+# Review of the Command Line
 
-# Review of the command line
-
-In contrast to a GUI, or graphical user interface, the command line lets us tell our computer exactly what we want it to do using successive lines of text. 
-
-The commmand line is one of the primary ways of using Git on your computer. We're going to use this method practice what we learned yesterday, and help us grasp the concepts of Git. To review...
+We'll be using the command line in this session, so let's review some command line basics first, including navigation. For more on the command line, review the [materials for the command line session](https://github.com/DHRI-Curriculum/command-line).
 
 ## Accessing the Terminal
 
 ### Mac OS
 
-Press the space bar and the command key at the same time and type `terminal`.
+Press the space bar and the command key at the same time and type `terminal`. Press `Enter`.
 
 ### Windows
 
-Press the Windows button on your keyboard. When the search menu pops up, type `cmd` and press `Enter`.
+Press the Windows button on your keyboard. When the search menu pops up, type `git bash` and press `Enter`.
 
 ## Practice Navigating the Command Line
 
 In this session, we will be making a syllabus and using Git to keep track of our revisions. Let's create a Git project folder
 
-`cd <directory-name>` will let you navigate inside a directory of your choosing.
+	cd <directory-name> 
+	
+will let you navigate inside a directory of your choosing.
 
-Type `cd Desktop` and hit enter.
+Type 
 
-Now, `cd ..` lets you go up a directory.
+	cd Desktop
+	
+and hit `Enter`. This will change your current working directory from `/Users/<your-name>` to `/Users/<your-name>/Desktop`.
 
-Practice going back and forth between your Desktop and your home directory. Experiment! The more you type the more natural the command line will feel.
+To check your current directory, type
 
-Got lost? `pwd` or "print working directory" will tell you where you are if you get a little lost.
+	pwd
+	
+Try this now to make sure you're in your Desktop directory.
+
+Now, use 
+
+	cd ..
+	
+to go up one directory. In this case, this will take you back to your home directory.
+
+Practice going back and forth between your Desktop and your home directory.
 
 When finished, go to your Desktop folder and check that you're there with `pwd`.
 
-### Making a Git Project Folder
+## Making a Git Project Folder
 
-From your Desktop, navigate into your `projects` folder. Then create a `git` folder with the below command:
+If you've worked through the command line session, you should see a `projects` folder on your desktop. Navigate into it with
+
+	cd projects
+	
+If you don't have a projects folder on your desktop, create one with
+
+	mkdir projects
+
+From `Desktop`, navigate into your `projects` folder. Then create a `git` folder with the below command:
 
 	mkdir git
 
-Use your GUI to confirm that you have a `git` folder inside your `projects` folder on the desktop. Your folder structure should look like this:
+Enter the new `git` folder with
+
+	cd git
+
+At this point, when you type `pwd`, Your folder structure should look like this:
 
 	/home/<username>/Desktop/projects/git
 

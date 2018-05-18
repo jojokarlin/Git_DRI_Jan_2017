@@ -2,35 +2,30 @@
 
 # Configure Git
 
-First, we're going to configure Git using the command line.  
+Our first step in working with Git is configuring it with your own name and information.
 
-#### Open your terminal
+## Check Your Install
 
-Mac: press the space bar and the command key at the same time and type in "terminal."
+Let's make sure Git has been successfully installed. In your terminal, type
 
-Windows: launch the command prompt from the run window. 
+	git --version
 
-#### Check your install
+If you see a version number, you're all set. If not, click here [here](http://git-scm.com/downloads) and install as you would any other software on your system.
 
-Type `git` at the `$` prompt.
+## Configuring Git on Your Computer
 
-If you get a nice list of commands, you're good to go. If not, click here [here](http://git-scm.com/downloads) and install as per the directions.
+Type the following into your command line, filling in the sections for your username and email. This does not necessarily need to be the name and email you used to sign up for GitHub.
 
-## Configuring Git on your computer
-
-Type the following into your command line, filling in the sections for your username and email. These must correspond to the name and email you used to sign up for GitHub.
-
-`git config --global user.name "John Doe"`
-
-`git config --global user.email johndoe@example.com`
+	git config --global user.name "John Doe"
+	git config --global user.email johndoe@example.com
 
 To check your set-up, use:
 
-`git config --list`
+	git config --list
 
 You'll get something that looks like this:
 
-`user.name=Superstar Git User`  
-`user.email=gitsuperstar@gmail.com.`  
+	user.name=Superstar Git User
+	user.email=gitsuperstar@gmail.com
 
 [<<< Previous](commandline.md) | [Next >>>](markdown.md)
