@@ -1,4 +1,3 @@
-
 [<<< Previous](markdown.md) | [Next >>>](gitaction.md)
 
 # Connecting to GitHub
@@ -7,7 +6,7 @@ Now, let's connect the directory you made to GitHub. GitHub is a service that al
 
 Go to GitHub in your browser and click the plus sign in the upper right hand corner to create a new remote repo. 
 
-![You can find the plus sign button to add a repo on the top right of github](images/addrepo.png)
+![You can find the plus sign button to add a repo on the top right of github](../images/addrepo.png)
 
 - Give it the same name as your local repo. 
 - Select Public 
