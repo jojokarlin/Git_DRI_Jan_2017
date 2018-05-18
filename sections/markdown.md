@@ -18,13 +18,19 @@ Now Git is tracking our directory. But before that's useful, we'll have to creat
 
 ### Creating a Syllabus in Markdown
 
-Let's use our text editor, nano, to create and edit a syllabus file in the folder. Type:
+Let's use our text editor, VS Code, to create and edit a syllabus file in the folder. Make sure VS Code is installed before taking this step.
 
-	nano syllabus.md
+In the terminal, type
 
-Once you've entered this command, you wil be presented with the nano text editor in the command line:
+	code syllabus.md
+	
+to open a `syllabus.md` file in VS Code. You should see a window appear that looks similar to this:
 
-![What the Nano text editor looks like when you first open it](nano.png)
+![Image of what VS Code looks like when opening the syllabus.md file](vscode1.png)
+
+If VS Code does not open when you use the `code` command in your terminal, open it using the Start Menu on Windows or Spotlight Search on Mac OS as you would any other software. Then click `File > Open File` and use the dialog to navigate to the `/Users/<your-name>/Desktop/projects/git` folder and create a `syllabus.md` file there.
+
+We'll be typing our markdown into this VS Code window. At any time, you can save your file by hitting `Control-s` on Windows or `Mac-s` on Mac OS. Alternatively, you can click the `File` menu on the top right, then select `Save` from the dropdown menu.
 
 ## Using Markdown
 
@@ -55,7 +61,6 @@ To create a link, put the anchor text (the text you will see) in square brackets
 	
 Paragraphs of text are denoted by putting a blank line between them:
 
-
 > This is a paragraph in markdown. It's seperated from the paragraph below with a blank line. If you know HTML, it's kind of like the \<p> tag. That means that there is a little space before and after the paragraph when it is rendered.
 > 
 > This is a second paragraph in markdown, which I'll use to tell you what I like about markdown. I like markdown because it looks pretty good, if minimal, whether you're looking at the rendered or unrendered version. It's like tidy HTML.
@@ -63,9 +68,9 @@ Paragraphs of text are denoted by putting a blank line between them:
 
 Try using these five elements—headings, emphasis, lists, links, and paragraphs—to create a syllabus. Have a main heading that gives the course title (one `#`), then subheadings for, at least, course info and readings. Use emphasis (`*`) for book titles and try to get a list in there somewhere.
 
-You can look at an example syllabus in raw text form [here](https://raw.githubusercontent.com/DHRI-Curriculum/git/resources/dhri-syllabus.md). When it's rendered by GitHub, it looks like [this](resources/dhri-syllabus.md). This is what your markdown might look like in the nano editor:
+You can look at an example syllabus in raw text form [here](https://raw.githubusercontent.com/DHRI-Curriculum/git/sections/syllabus.md). When it's rendered by GitHub, it looks like [this](resources/dhri-syllabus.md).
 
-![A Star Trek syllabus in Nano](nano-syllabus.png)
+
 
 When you're ready to save your syllabus in Nano, use these steps:
 
