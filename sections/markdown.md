@@ -68,18 +68,19 @@ Paragraphs of text are denoted by putting a blank line between them:
 
 Try using these five elements—headings, emphasis, lists, links, and paragraphs—to create a syllabus. Have a main heading that gives the course title (one `#`), then subheadings for, at least, course info and readings. Use emphasis (`*`) for book titles and try to get a list in there somewhere.
 
-You can look at an example syllabus in raw text form [here](https://raw.githubusercontent.com/DHRI-Curriculum/git/sections/syllabus.md). When it's rendered by GitHub, it looks like [this](resources/dhri-syllabus.md).
+You can look at an example syllabus in raw text form [here](https://raw.githubusercontent.com/DHRI-Curriculum/git/master/sections/syllabus.md). When it's rendered by GitHub, it looks like [this](https://github.com/DHRI-Curriculum/git/blob/master/sections/syllabus.md). In VS Code, your markdown might look like this:
 
+![What your markdown might look like when typed into VS Code](vscode2.png)
 
+VS Code also has a preview feature for your markdown. Hit the preview button on the top right while editing your markdown file:
 
-When you're ready to save your syllabus in Nano, use these steps:
+![Button to hit to get a preview in VS Code](vscode3.png)
 
-1. Hold `control` and press `x`.
-2. You will be asked if you want to save. Press `y` for "yes."
-3. You will see a path to your file, which should end with `syllabus.md`. Hit `Enter` and your file will be saved.
+You'll get two side-by-side panels. Your markdown file will be on the left, and your rendered preview will be on the right:
 
-That's `control-x`, `y`, then `Enter`. Once your syllabus has been saved, we're ready to start tracking it with Git, which we'll do in the next section. If you're curious, you can also see the raw markdown for the page that you're reading [here](https://github.com/DHRI-Curriculum/git/sections/markdown.md).
+![Side by side markdown and preview in VS Code](vscode4.png)
 
+Remember to save your work with `Control-s` on Windows or `Mac-s` on Mac OS.
 
 [<<< Previous](gitconfig.md) | [Next >>>](github.md)
 
