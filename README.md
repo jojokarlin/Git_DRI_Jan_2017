@@ -2,16 +2,8 @@
 
 Git is version control software used to track the state of files associated with a project. Users can take snapshots of files, travel through the history of a project, collaborate transparently with others, and easily keep compatible data in many locations. Combined with GitHub, a cloud service, Git also becomes a way of finding and publishing text, including writing and code.
 
-In this session, we'll Learn what makes Git such a powerful tool for both collaborative and individual projects. We will share a conceptual overview of Git and GitHub, teach the basics of how to get started, and explore practical applications of GitHub for writing and coding. This workshop will be applicable for a wide range of digital undertakings, from developing code, to working with datasets, to drafting public policy, and beyond.
+In this session, we'll Learn what makes Git such a powerful tool for both collaborative and individual projects. We will share a conceptual overview of Git and GitHub, explore fundamental concepts such as committing and pushing, and explore practical applications of GitHub for writing and coding. This session will show how to use Git and GitHub for a variety of digital undertakings, including collaborating with others, finding code for use in your projects, and sharing your work publicly. This session covers initializing Git repositories, committing changes, pushing and pulling to and from GitHub, and cloning repositories to your local machine.
 
-By the end of this session, you will:
-- Have a basic understanding of how Git and GitHub are used by scholars for version control and collaboration 
-- Create a Git repository on your computer, add files, and push this repository to your GitHub account
-- Clone a repository created by another scholar, modify the files to reflect your interests, and the push the updated repository to your GitHub account
-
-Session Leader: Patrick Sweeney  
-Based on sessions by Jojo Karlin, Jennifer Tang, Stephen Zweibel, and Mary Catherine McKinniburgh  
- 
 [What are Git, GitHub and Markdown?](sections/concept.md)  
 [What You Can Do with Git and GitHub](sections/examples.md)  
 [Review of the Command Line](sections/commandline.md)  
@@ -23,4 +15,11 @@ Based on sessions by Jojo Karlin, Jennifer Tang, Stephen Zweibel, and Mary Cathe
 [Summary](sections/summary.md)  
 [Resources](sections/resources.md)  
 
-[Next >>>](sections/concept.md)   
+-----
+
+Session Leader: Patrick Sweeney  
+Based on previous work by Jojo Karlin, Jennifer Tang, Stephen Zweibel, and Mary Catherine McKinniburgh  
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+[Digital Research Institute (DRI) Curriculum](http://purl.org/dc/terms/) by [Graduate Center Digital Initiatives](https://gcdi.commons.gc.cuny.edu/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Based on a work at <https://github.com/DHRI-Curriculum>. When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
