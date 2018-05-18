@@ -12,7 +12,7 @@ Now we're going to initialize our repository, which means telling Git to pay att
 
 You should see output like this:
 
-	Initialized empty Git repository in /home/patrick/projects/lalala/.git/
+	Initialized empty Git repository in /home/patrick/projects/git/.git/
 	
 Now Git is tracking our directory. But before that's useful, we'll have to create a text file for Git to track. For this session, the file we'll track will be a course syllabus—we'll create that next.
 
@@ -83,4 +83,3 @@ You'll get two side-by-side panels. Your markdown file will be on the left, and 
 Remember to save your work with `Control-s` on Windows or `Mac-s` on Mac OS.
 
 [<<< Previous](gitconfig.md) | [Next >>>](github.md)
-

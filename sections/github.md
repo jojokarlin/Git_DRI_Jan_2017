@@ -38,10 +38,15 @@ Next, paste the second command. It will look exactly like this:
 
 	git push -u origin master
 
-After running this command, you should see output that looks liek this:
+After running this command, you should see output that looks like this:
 
+```
+Total 4 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To github.com:<repo-name>/git.git
+   916998f..9779fa7  master -> master
+```
 
-
-
+If you see output like this, go back to your new repository page in the browser and click the `Refresh` button. You should see your `syllabus.md` file on GitHub!
 
 [<<< Previous](markdown.md) | [Next >>>](gitaction.md)
