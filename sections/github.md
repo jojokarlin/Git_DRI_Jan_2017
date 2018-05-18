@@ -22,24 +22,26 @@ After clicking `New repository`, you'll have to enter some information, includin
 - Do *not* select `Initialize this repository with a README` since you will be importing an existing repository from your computer.
 - Click `Create repository`.
 
-You should end up inside your newly created GitPractice repo. If not, navigate to your new remote repo in the browser, and copy its HTTPS: URL (highlighted in light blue).
+You should end up inside your newly created GitPractice repo. It will look like a set of instructions that you might want to use to connect your GitHub repository to a local repository.
 
-![alt text][github URL]
+The instructions we want consist of two lines underneath the heading `...or push an existing repository from the command line`. The hand in this screenshot points to where these directions are on the page:
 
-[github URL]: https://github.com/jojokarlin/Git_DRI_Jan_2017/blob/master/images/github%20URL.png "copy the URL from your browser"
+![The commands you need to copy from the new repo page on GitHub](../images/connect-repo.png)
 
-On your command line, type `git remote add origin [URL of your remote repo]`  
-This will link the local and remote repo.  
+Copy out the first command and paste it in your terminal. It should look something like this:
 
-To confirm, type `git remote -v` and hit enter.
+	git remote add origin git@github.com:<username>/<repository-name>.git
+	
+You'll need the command copied from your new repo, since it will contain the correct URL.
 
-You should see something like  
-`Origin https://github.com/jojokarlin/Git_DRI_Jan_2017 (fetch)`  
-`Origin https://github.com/jojokarlin/Git_DRI_Jan_2017 (push)`
+Next, paste the second command. It will look exactly like this:
 
-If you're getting stuck, setting up a [remote repo in GitHub](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/) is a good resource.
+	git push -u origin master
 
----
+After running this command, you should see output that looks liek this:
+
+
+
 
 
 [<<< Previous](markdown.md) | [Next >>>](gitaction.md)
