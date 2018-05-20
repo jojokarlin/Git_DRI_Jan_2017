@@ -1,6 +1,6 @@
 [<<< Previous](markdown.md) | [Next >>>](gitpull.md)
 
-# Connecting to GitHub
+# Pushing to GitHub
 
 Now, let's connect the directory you made to GitHub. GitHub is a service that allows us to host files, collaborate, and find the work of others. Once our syllabus is on GitHub, it will be publicly visible.
 

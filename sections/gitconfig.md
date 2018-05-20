@@ -1,6 +1,6 @@
 [<<< Previous](commandline.md) | [Next >>>](markdown.md)
 
-# Configure Git
+# Setting Up Git
 
 Our first step in working with Git is configuring it with your own name and information.
 

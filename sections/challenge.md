@@ -1,4 +1,4 @@
-[<<< Previous](gitrefresh.md) | [Next >>>](gitclone.md)
+[<<< Previous](cloning.md) | [Next >>>](gitclone.md)
 
 # Challenges
 
@@ -10,7 +10,7 @@ Create a README.md file in your `git-practice` folder. In the file, using your t
 
 Create a comopletely new repository in your `projects` directory and push it to GitHub. It could be a list of useful commands you've learned, a short poem, or anything else you'd care to track, store, and share.
 
-[<<< Previous](gitclone.md))
+[<<< Previous](cloning.md)
 
 [Glossary >>>](glossary.md)  
 [Helpful commands >>>](helpfulcommands.md)

@@ -10,9 +10,9 @@ In this session, we'll learn what makes Git such a powerful tool for both collab
 [Setting Up Git](sections/gitconfig.md)  
 [Creating a Syllabus with Markdown](sections/markdown.md)  
 [Staging and Committing Changes](sections/gitaction.md)  
-[Connecting to GitHub](sections/github.md)  
-[Git for Collaboration: Cloning and Pulling](sections/gitpull.md)  
-[Summary](sections/summary.md)  
+[Pushing to GitHub](sections/github.md)  
+[Cloning ](sections/cloning.md)  
+[Challenges](sections/challenge.md)  
 [Resources](sections/resources.md)  
 
 -----
