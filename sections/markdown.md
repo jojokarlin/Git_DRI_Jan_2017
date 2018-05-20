@@ -1,4 +1,4 @@
-[<<< Previous](gitconfig.md) | [Next >>>](github.md)
+[<<< Previous](gitconfig.md) | [Next >>>](gitaction.md)
 
 # Creating a Syllabus with Markdown
 
@@ -82,4 +82,4 @@ You'll get two side-by-side panels. Your markdown file will be on the left, and 
 
 Remember to save your work with `Control-s` on Windows or `Mac-s` on Mac OS.
 
-[<<< Previous](gitconfig.md) | [Next >>>](github.md)
+[<<< Previous](gitconfig.md) | [Next >>>](gitaction.md)

@@ -26,7 +26,7 @@ Participants in the study said they found GitHub useful in their Digital Humanit
 
 ### Sharing and Attribution
 
-As you can see across these sessions, we use GitHub to host workshop curricula. Hosting sessions on GitHub allows you (and anyone else interested in these topics!) to follow our repositories, and create your own version of the workshop based on our materials. This fosters open scholarship and knowledge sharing. It also facilitates attribution and citation by clearly tracking which content was created by whom, when it was added, and which projects or materials and derived from others.
+As you can see across these sessions, we use GitHub to host workshop curricula. Hosting sessions on GitHub allows you (and anyone else interested in these topics!) to follow our repositories, and create your own version of the workshop based on our materials. This fosters open scholarship and knowledge sharing. It also facilitates attribution and citation by clearly tracking which content was created by whom, when it was added, and which projects or materials are derived from others.
 
 #### Case One: This Session
 
@@ -34,7 +34,7 @@ If you look just under the workshop title at the top of this page, you can see i
 
 ### Collaborative Writing
 
-Some of us use Git to track changes (*version control* in Git parlance) in writing projects, and find it to be a cleaner, more elegant solution than the tracked changes function in a Microsoft Word document. 
+Some of us use Git to track changes (*version control* in Git parlance) in writing projects, and find it to be a cleaner, more elegant solution than the Track Changes functionality in Microsoft Word.
 
 #### Case Two: Coauthored Publications
 
@@ -57,7 +57,7 @@ Have you ever had a folder full of multiple and conflicting  versions of documen
    --syllabus?.doc 
 ```
 
-Many of us borrow and adapt from syllabi that colleagues have shared with us. For example, when I first taught, I was offered syllabi by colleagues who had taught the course before. I utilized some of their work as a base to build my particular course, and after developing my own syllabi I happily emailed them to other graduate students teaching for the first time. 
+Many of us borrow and adapt from syllabi that colleagues have shared with us. For example, when I first taught, I was offered syllabi by colleagues who had taught the course before. I used some of their work as a base to build my particular course, and after developing my own syllabi I happily emailed them to other graduate students teaching for the first time. 
 
 This common and collegial practice has some challenges, however. As my colleagues and I emailed around Word documents, it became difficult to identify who had created which assignments or language, and we rarely got to see how others developed innovative approaches that would be useful in our own classes. 
 
@@ -65,6 +65,6 @@ This common and collegial practice has some challenges, however. As my colleague
 
 If my colleagues and I had instead forked our syllabi from eachother's repositories on GitHub, our individual work would be attributed, and we could follow eachother's revisions and additions to better revise our own. I could also easily go back to syllabi from previous semesters and dig up that classic or obscure reading that I wanted to reincorporate into the course.
 
-Later in this workshop, you will fork an example syllabus I created, modify it to match your interests, and then push it back to GitHub. This exercise will illustrate basic functions of Git and GitHub as well as demonstrate how collaboration and version control can be useful for tasks such as course syllabi.
+Later in this workshop, you will create your own syllabus, track different versions of it, and replicate ("push")your local version to GitHub. With luck, this will give you a sense of how some of the above workflows might work in practice.
 
 [<<< Previous](concept.md) | [Next >>>](commandline.md)  

@@ -14,7 +14,7 @@ If you see a version number, you're all set. If not, click [here](http://git-scm
 
 ## Configuring Git on Your Computer
 
-Type the following into your command line, filling in the sections—below labelled "John Doe"—for your username and email. This does not necessarily need to be the name and email you used to sign up for GitHub.
+Type the following into your command line, filling in the sections—below labelled "John Doe"—for your name and email. This does not necessarily need to be the name and email you used to sign up for GitHub.
 
 	git config --global user.name "John Doe"
 	git config --global user.email johndoe@example.com
