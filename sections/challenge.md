@@ -1,4 +1,4 @@
-[<<< Previous](cloning.md) | [Next >>>](gitclone.md)
+[<<< Previous](cloning.md)
 
 # Challenges
 
@@ -12,5 +12,5 @@ Create a comopletely new repository in your `projects` directory and push it to 
 
 [<<< Previous](cloning.md)
 
-[Glossary >>>](glossary.md)  
-[Helpful commands >>>](helpfulcommands.md)
+
+

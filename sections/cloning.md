@@ -1,4 +1,4 @@
-[<<< Previous](gitaction.md) | [Next >>>](gitchallenge.md)
+[<<< Previous](gitaction.md) | [Next >>>](challenge.md)
 
 # Cloning
 
@@ -38,4 +38,4 @@ If the command is successful, the full Git lesson will be replicated on your loc
 	
 to enter the lesson folder, since the lesson repository is simply called `git`. Use the `ls` command to take a look at the various files in the lesson folder.
 
-[<<< Previous](gitaction.md) | [Next >>>](gitchallenge.md)
+[<<< Previous](gitaction.md) | [Next >>>](challenge.md)

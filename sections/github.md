@@ -1,4 +1,4 @@
-[<<< Previous](markdown.md) | [Next >>>](gitpull.md)
+[<<< Previous](gitaction.md) | [Next >>>](cloning.md)
 
 # Pushing to GitHub
 
@@ -49,4 +49,4 @@ To github.com:<repo-name>/git.git
 
 If you see output like this, go back to your new repository page in the browser and click the `Refresh` button. You should see your `syllabus.md` file on GitHub!
 
-[<<< Previous](markdown.md) | [Next >>>](gitpull.md)
+[<<< Previous](gitaction.md) | [Next >>>](cloning.md)
