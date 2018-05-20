@@ -26,7 +26,7 @@ While in the `git-practice` folder, in the terminal, type
 	
 to open a `syllabus.md` file in VS Code. You should see a window appear that looks similar to this:
 
-![Image of what VS Code looks like when opening the syllabus.md file](vscode1.png)
+![Image of what VS Code looks like when opening the syllabus.md file](../images/vscode1.png)
 
 If VS Code does not open when you use the `code` command in your terminal, open it using the Start Menu on Windows or Spotlight Search on Mac OS as you would any other software. Then click `File > Open File` and use the dialog to navigate to the `/Users/<your-name>/Desktop/projects/git` folder and create a `syllabus.md` file there.
 
@@ -70,15 +70,15 @@ Try using these five elements—headings, emphasis, lists, links, and paragraphs
 
 You can look at an example syllabus in raw text form [here](https://raw.githubusercontent.com/DHRI-Curriculum/git/master/sections/syllabus.md). When it's rendered by GitHub, it looks like [this](https://github.com/DHRI-Curriculum/git/blob/master/sections/syllabus.md). When editing the markdown file in VS Code, it might look like this:
 
-![What your markdown might look like when typed into VS Code](vscode2.png)
+![What your markdown might look like when typed into VS Code](../images/vscode2.png)
 
 VS Code also has a preview feature for your markdown. Hit the preview button on the top right while editing your markdown file:
 
-![Button to hit to get a preview in VS Code](vscode3.png)
+![Button to hit to get a preview in VS Code](../images/vscode3.png)
 
 You'll get two side-by-side panels. Your markdown file will be on the left, and your rendered preview will be on the right:
 
-![Side by side markdown and preview in VS Code](vscode4.png)
+![Side by side markdown and preview in VS Code](../images/vscode4.png)
 
 Remember to save your work with `Control-s` on Windows or `Mac-s` on Mac OS.
 
