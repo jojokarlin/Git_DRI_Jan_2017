@@ -53,16 +53,16 @@ If you don't have a projects folder on your desktop, create one with
 
 	mkdir projects
 
-From `Desktop`, navigate into your `projects` folder. Then create a `git` folder with the below command:
+From `Desktop`, navigate into your `projects` folder. Then create a `git-practice` folder with the below command:
 
-	mkdir git
+	mkdir git-practice
 
 Enter the new `git` folder with
 
-	cd git
+	cd git-practice
 
 At this point, when you type `pwd`, Your folder structure should look like this:
 
-	/home/<username>/Desktop/projects/git
+	/home/<username>/Desktop/projects/git-practice
 
 [<<< Previous](examples.md) | [Next >>>](gitconfig.md)  

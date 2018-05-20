@@ -1,25 +1,41 @@
 [<<< Previous](gitaction.md) | [Next >>>](gitchallenge.md)
 
-# Making a copy of a GitHub repo to work on locally
-## Cloning
+# Cloning
 
-A **clone** is a local copy of a repository.  
+**Cloning** a repository means making a copy to work on locally. When you clone a repository from GitHub, information about where it was cloned from will automatically be added to your local version. This means that commands like `git push` will work without adding additional information.
 
-`git clone [URL of your GitHub repo]`
+	git clone <repository-url>
 
-This clones a remote repository to your computer so you can customize it to your taste. 
+For practice, let's clone the repository for this session about Git and GitHub.
 
-**First, make sure you are out of GitPractice before you clone.** Let's navigate to the Desktop. 
+First, let's navigate back to your Desktop folder.
 
-Clone the [repo for this workshop](https://github.com/DHRI-Curriculum/git) so you can have a copy for yourself!
+	cd ~/Desktop
+	
+Remember that the ~ refers to your home directory. Now let's find the URL we need to clone the lesson.
 
-`git clone https://github.com/DHRI-Curriculum/git`
+First, follow [this link to the main page of this lesson on Git and GitHub](https://github.com/DHRI-Curriculum/git).
 
-In the future, you can use the GUI on GitHub (buttons on the web page) to do the same thing. There should be a "clone or download" button near the top right of each repository. 
+On the main page, there should be a green `Clone or download` button on the right side:
 
-## Pulling
+![Image pointing out where the clone or download button is on GitHub](clone.png)
 
-If you receive an error notification that you are unable to push changes to your GitHub repo from your local repo, it often means that changes have been made to your GitHub repo that have not yet been logged locally. You'll have to pull the repo, using `git pull [URL of your GitHub repo]` then merge the changes by using `git commit -u origin master` in order to return to smoother sailing with your `git push` commands. 
+Click the green button and you will see a box with highlighted text under a heading that says `Clone with HTTPS`. If you instead see `Cloning with SSH`, click the small link that says `Use HTTPS`.
 
+Now copy out the text in the box:
+
+![Image showing where the text you need to copy is located](copy-clone-text.png)
+
+Now that you have the text copied, go back to your terminal. Remember, you should be on the desktop.
+
+Type
+
+	git clone <copied-url>
+	
+If the command is successful, the full Git lesson will be replicated on your local machine. You can type
+
+	cd git
+	
+to enter the lesson folder, since the lesson repository is simply called `git`. Use the `ls` command to take a look at the various files in the lesson folder.
 
 [<<< Previous](gitaction.md) | [Next >>>](gitchallenge.md)

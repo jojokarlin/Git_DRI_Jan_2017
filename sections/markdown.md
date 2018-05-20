@@ -2,9 +2,9 @@
 
 # Creating a Syllabus with Markdown
 
-Using `cd`, navigate to the `git` folder inside `projects`. From your home directory, type:
+Using `cd`, navigate to the `git-practice` folder inside `projects`. From your home directory, type:
 
-	cd Desktop/projects/git
+	cd Desktop/projects/git-practice
 
 Now we're going to initialize our repository, which means telling Git to pay attention to it:
 
@@ -20,7 +20,7 @@ Now Git is tracking our directory. But before that's useful, we'll have to creat
 
 Let's use our text editor, VS Code, to create and edit a syllabus file in the folder. Make sure VS Code is installed before taking this step.
 
-In the terminal, type
+While in the `git-practice` folder, in the terminal, type
 
 	code syllabus.md
 	

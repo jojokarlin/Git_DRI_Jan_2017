@@ -1,28 +1,16 @@
-
 [<<< Previous](gitrefresh.md) | [Next >>>](gitclone.md)
 
-# Challenge yourself
+# Challenges
 
-## Challenge 
+## Challenge One
 
-- Create a README.md file in your GitPractice directory
+Create a README.md file in your `git-practice` folder. In the file, using your text editor, add a heading and a description. Save, stage, commit, and push your new README.md file to GitHub.
 
-- Save, stage, commit, and push your new file to your remote repo.
+## Challenge Two
 
-**hint** use a combination of command line and git commands.
+Create a comopletely new repository in your `projects` directory and push it to GitHub. It could be a list of useful commands you've learned, a short poem, or anything else you'd care to track, store, and share.
 
+[<<< Previous](gitclone.md))
 
-
-## EXTRA Challenge
-### Not for the faint of heart
-
-- Initialize `git init` a *new* repository by navigating to your own project folder. 
-- choose a directory you wish to track (it can be the cheatsheet directory or databases directory you made in the command line workshop)
-- connect your local directory to your GitHub account
-- put up your sticky note when you have made an initial commit to your GitHub 
-
----
-
-[<<< Previous](gitrefresh.md) | [Next >>>](gitclone.md)
-
-[Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
+[Glossary >>>](glossary.md)  
+[Helpful commands >>>](helpfulcommands.md)
