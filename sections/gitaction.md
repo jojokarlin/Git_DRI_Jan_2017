@@ -17,7 +17,7 @@ Making a commit is a lot like taking a photo. First, you have to decide who will
 
 First, let's use a useful command to see what state Git is currently in. It's a good idea to use this command before and after doing anything in Git so you can always be on the same page as the computer.
 
-Make sure you're in your `/home/<your-name>/Desktop/projects/git` directory using the `pwd` command in the terminal. Once you're there, enter this command:
+Make sure you're in your `/home/<your-name>/Desktop/projects/git-practice` directory using the `pwd` command in the terminal. Once you're there, enter this command:
 
 	git status
 	
@@ -36,7 +36,7 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-This means we've initialized our repository, but haven't made any commits yet. If you're instead get a message that begins with the word `fatal` when you use `git status`, you may be in the wrong directory or haven't run the `git init` command on your directory yet.
+This means we've initialized our repository, but haven't made any commits yet. If you're instead getting a message that begins with the word `fatal` when you use `git status`, you may be in the wrong directory or perhaps you haven't run the `git init` command on your directory yet.
 
 Let's follow the recommendation in the status message above and use the `add` command to stage files, making them ready to be committed.
 
