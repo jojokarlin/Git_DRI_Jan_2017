@@ -30,7 +30,7 @@ to open a `syllabus.md` file in VS Code. You should see a window appear that loo
 
 If VS Code does not open when you use the `code` command in your terminal, open it using the Start Menu on Windows or Spotlight Search on Mac OS as you would any other software. Then click `File > Open File` and use the dialog to navigate to the `/Users/<your-name>/Desktop/projects/git` folder and create a `syllabus.md` file there.
 
-We'll be typing our markdown into this VS Code window. At any time, you can save your file by hitting `Control-s` on Windows or `Mac-s` on Mac OS. Alternatively, you can click the `File` menu on the top right, then select `Save` from the dropdown menu.
+We'll be typing our markdown into this VS Code window. At any time, you can save your file by hitting `Control-s` on Windows or `⌘-s` on Mac OS. Alternatively, you can click the `File` menu on the top right, then select `Save` from the dropdown menu.
 
 ## Using Markdown
 
