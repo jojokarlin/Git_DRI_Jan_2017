@@ -30,7 +30,7 @@ to open a `syllabus.md` file in VS Code. You should see a window appear that loo
 
 If VS Code does not open when you use the `code` command in your terminal, open it using the Start Menu on Windows or Spotlight Search on Mac OS as you would any other software. Then click `File > Open File` and use the dialog to navigate to the `/Users/<your-name>/Desktop/projects/git` folder and create a `syllabus.md` file there.
 
-We'll be typing our markdown into this VS Code window. At any time, you can save your file by hitting `Control-s` on Windows or `⌘-s` on Mac OS. Alternatively, you can click the `File` menu on the top right, then select `Save` from the dropdown menu.
+We'll be typing our markdown into this VS Code window. At any time, you can save your file by hitting `Control-s` on Windows or `Mac-s` on Mac OS. Alternatively, you can click the `File` menu on the top right, then select `Save` from the dropdown menu.
 
 ## Using Markdown
 
@@ -61,7 +61,7 @@ To create a link, put the anchor text (the text you will see) in square brackets
 	
 Paragraphs of text are denoted by putting a blank line between them:
 
-> This is a paragraph in markdown. It's seperated from the paragraph below with a blank line. If you know HTML, it's kind of like the \<p> tag. That means that there is a little space before and after the paragraph when it is rendered.
+> This is a paragraph in markdown. It's separated from the paragraph below with a blank line. If you know HTML, it's kind of like the \<p> tag. That means that there is a little space before and after the paragraph when it is rendered.
 > 
 > This is a second paragraph in markdown, which I'll use to tell you what I like about markdown. I like markdown because it looks pretty good, if minimal, whether you're looking at the rendered or unrendered version. It's like tidy HTML.
 
