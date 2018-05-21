@@ -8,7 +8,7 @@
 
 ## What is GitHub?
 
-**GitHub** is a cloud service for hosting Git repositories. It's something of a social network for programmers, and is frequently used as a portfolio for sharing work. GitHub is used to share your code and writing with a wider community and also to find the code and writing of others. It can also be used to host websites.
+**GitHub** is a cloud service for hosting Git repositories. It's something of a social network for programmers and is frequently used as a portfolio for sharing work. GitHub is used to share your code and writing with a wider community and also to find the code and writing of others. It can also be used to host websites.
 
 ## What is Markdown?
 
