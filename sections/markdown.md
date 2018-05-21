@@ -80,6 +80,6 @@ You'll get two side-by-side panels. Your markdown file will be on the left, and 
 
 ![Side by side markdown and preview in VS Code](../images/vscode4.png)
 
-Remember to save your work with `Control-s` on Windows or `Mac-s` on Mac OS.
+Remember to save your work with `Control-s` on Windows or `⌘-s` on Mac OS.
 
 [<<< Previous](gitconfig.md) | [Next >>>](gitaction.md)
