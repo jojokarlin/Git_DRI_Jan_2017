@@ -6,7 +6,7 @@ Using `cd`, navigate to the `git-practice` folder inside `projects`. From your h
 
 	cd Desktop/projects/git-practice
 
-Now we're going to initialize our repository, which means telling Git to pay attention to it:
+Now we're going to **initialize** our repository, which means telling Git to pay attention to it:
 
 	git init
 
