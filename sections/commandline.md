@@ -61,7 +61,7 @@ Enter the new `git` folder with
 
 	cd git-practice
 
-At this point, when you type `pwd`, Your folder structure should look like this:
+At this point, when you type `pwd`, your folder structure should look like this:
 
 	/home/<username>/Desktop/projects/git-practice
 
