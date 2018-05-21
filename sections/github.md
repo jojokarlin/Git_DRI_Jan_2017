@@ -16,13 +16,13 @@ After clicking `New repository`, you'll have to enter some information, includin
 
 ![Screen on GitHub where you enter your repository information](../images/createrepo2.png)
 
-- Choose a name, such as `git-syllabus`.
+- Choose a name, such as `git-practice`.
 - Enter a description, such as `Test syllabus for learning Git and GitHub`.
 - Keep the `Public — Anyone can see this repository` selector checked.
 - Do *not* select `Initialize this repository with a README` since you will be importing an existing repository from your computer.
 - Click `Create repository`.
 
-You should end up inside your newly created GitPractice repo. It will look like a set of instructions that you might want to use to connect your GitHub repository to a local repository.
+You should end up inside your newly created git-practice repo. It will look like a set of instructions that you might want to use to connect your GitHub repository to a local repository.
 
 The instructions we want consist of two lines underneath the heading `...or push an existing repository from the command line`. The hand in this screenshot points to where these directions are on the page:
 
